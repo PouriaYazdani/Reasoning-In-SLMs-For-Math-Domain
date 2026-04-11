@@ -1,0 +1,199 @@
+[f13_01] Tank A contains 106 liters of solution at 42% solute; Tank B contains 124 liters at 17%. You transfer x liters from A to B and mix thoroughly, then spill 96 liters from B. Next you add 20 liters of pure water to B and 116 liters of 55% solution to B. After all operations, B’s concentration is exactly 39.948%. Find x.
+
+[f13_02] Tank A contains 140 liters of solution at 65% solute; Tank B contains 96 liters at 40%. You transfer x liters from A to B and mix thoroughly, then spill 91 liters from B. Next you add 99 liters of pure water to B and 98 liters of 22% solution to B. After all operations, B’s concentration is exactly 18.871%. Find x.
+
+[f13_03] Tank A contains 53 liters of solution at 77% solute; Tank B contains 165 liters at 26%. You transfer x liters from A to B and mix thoroughly, then spill 38 liters from B. Next you add 31 liters of pure water to B and 97 liters of 64% solution to B. After all operations, B’s concentration is exactly 38.481%. Find x.
+
+[f13_04] Tank A contains 49 liters of solution at 83% solute; Tank B contains 78 liters at 21%. You transfer x liters from A to B and mix thoroughly, then spill 59 liters from B. Next you add 48 liters of pure water to B and 8 liters of 41% solution to B. After all operations, B’s concentration is exactly 10.41%. Find x.
+
+[f13_05] Tank A contains 160 liters of solution at 77% solute; Tank B contains 206 liters at 26%. You transfer x liters from A to B and mix thoroughly, then spill 170 liters from B. Next you add 116 liters of pure water to B and 25 liters of 0% solution to B. After all operations, B’s concentration is exactly 5.624%. Find x.
+
+[f13_06] Tank A contains 178 liters of solution at 48% solute; Tank B contains 75 liters at 6%. You transfer x liters from A to B and mix thoroughly, then spill 88 liters from B. Next you add 78 liters of pure water to B and 28 liters of 53% solution to B. After all operations, B’s concentration is exactly 14.424%. Find x.
+
+[f13_07] Tank A contains 126 liters of solution at 63% solute; Tank B contains 89 liters at 38%. You transfer x liters from A to B and mix thoroughly, then spill 11 liters from B. Next you add 34 liters of pure water to B and 20 liters of 42% solution to B. After all operations, B’s concentration is exactly 43.253%. Find x.
+
+[f13_08] Tank A contains 157 liters of solution at 77% solute; Tank B contains 85 liters at 51%. You transfer x liters from A to B and mix thoroughly, then spill 112 liters from B. Next you add 71 liters of pure water to B and 21 liters of 23% solution to B. After all operations, B’s concentration is exactly 22.253%. Find x.
+
+[f13_09] Tank A contains 32 liters of solution at 44% solute; Tank B contains 68 liters at 22%. You transfer x liters from A to B and mix thoroughly, then spill 21 liters from B. Next you add 54 liters of pure water to B and 46 liters of 69% solution to B. After all operations, B’s concentration is exactly 29.959%. Find x.
+
+[f13_10] Tank A contains 143 liters of solution at 54% solute; Tank B contains 50 liters at 51%. You transfer x liters from A to B and mix thoroughly, then spill 50 liters from B. Next you add 96 liters of pure water to B and 52 liters of 22% solution to B. After all operations, B’s concentration is exactly 8.593%. Find x.
+
+[f14_01] A service charges 4.39 per unit for the first 37 units, 1.84 per unit for the next 75 units, and 5.72 per unit beyond that. If total usage exceeds 164, a discount of 6% applies only to the portion beyond 164; additionally, if the pre-discount bill exceeds 19.05, a flat rebate 107.58 is subtracted. The bill is rounded to the nearest 0.25. Given final bill 743.00, find the total usage.
+
+[f14_02] A service charges 1.53 per unit for the first 63 units, 4.33 per unit for the next 80 units, and 8.67 per unit beyond that. If total usage exceeds 26, a discount of 27% applies only to the portion beyond 26; additionally, if the pre-discount bill exceeds 88.23, a flat rebate 96.18 is subtracted. The bill is rounded to the nearest 0.05. Given final bill 187.20, find the total usage.
+
+[f14_03] A service charges 1.54 per unit for the first 52 units, 2.27 per unit for the next 39 units, and 2.46 per unit beyond that. If total usage exceeds 78, a discount of 9% applies only to the portion beyond 78; additionally, if the pre-discount bill exceeds 362.00, a flat rebate 19.84 is subtracted. The bill is rounded to the nearest 0.50. Given final bill 168.00, find the total usage.
+
+[f14_04] A service charges 1.43 per unit for the first 68 units, 3.09 per unit for the next 63 units, and 2.68 per unit beyond that. If total usage exceeds 11, a discount of 16% applies only to the portion beyond 11; additionally, if the pre-discount bill exceeds 226.57, a flat rebate 33.82 is subtracted. The bill is rounded to the nearest 0.25. Given final bill 115.25, find the total usage.
+
+[f14_05] A service charges 2.61 per unit for the first 76 units, 5.85 per unit for the next 41 units, and 7.88 per unit beyond that. If total usage exceeds 111, a discount of 15% applies only to the portion beyond 111; additionally, if the pre-discount bill exceeds 88.73, a flat rebate 16.09 is subtracted. The bill is rounded to the nearest 1.00. Given final bill 1060.00, find the total usage.
+
+[f14_06] A service charges 4.33 per unit for the first 34 units, 1.98 per unit for the next 35 units, and 6.23 per unit beyond that. If total usage exceeds 12, a discount of 12% applies only to the portion beyond 12; additionally, if the pre-discount bill exceeds 226.45, a flat rebate 98.03 is subtracted. The bill is rounded to the nearest 0.10. Given final bill 196.80, find the total usage.
+
+[f14_07] A service charges 0.72 per unit for the first 43 units, 4.32 per unit for the next 64 units, and 8.98 per unit beyond that. If total usage exceeds 28, a discount of 22% applies only to the portion beyond 28; additionally, if the pre-discount bill exceeds 386.20, a flat rebate 22.62 is subtracted. The bill is rounded to the nearest 1.00. Given final bill 96.00, find the total usage.
+
+[f14_08] A service charges 4.32 per unit for the first 14 units, 5.14 per unit for the next 45 units, and 7.82 per unit beyond that. If total usage exceeds 52, a discount of 17% applies only to the portion beyond 52; additionally, if the pre-discount bill exceeds 211.36, a flat rebate 78.59 is subtracted. The bill is rounded to the nearest 0.50. Given final bill 466.50, find the total usage.
+
+[f14_09] A service charges 0.75 per unit for the first 73 units, 3.31 per unit for the next 71 units, and 5.36 per unit beyond that. If total usage exceeds 12, a discount of 12% applies only to the portion beyond 12; additionally, if the pre-discount bill exceeds 236.14, a flat rebate 27.29 is subtracted. The bill is rounded to the nearest 0.01. Given final bill 610.84, find the total usage.
+
+[f14_10] A service charges 1.06 per unit for the first 20 units, 6.76 per unit for the next 13 units, and 2.72 per unit beyond that. If total usage exceeds 15, a discount of 20% applies only to the portion beyond 15; additionally, if the pre-discount bill exceeds 129.16, a flat rebate 49.66 is subtracted. The bill is rounded to the nearest 0.10. Given final bill 47.20, find the total usage.
+
+[f15_01] Two numbers x and y satisfy: (i) x + y = 87, (ii) x − y = 37 unless x exceeds 29, in which case condition (ii) is replaced by x·y = 1550. You are told the override did occur. Find x and y.
+
+[f15_02] Two numbers x and y satisfy: (i) x + y = 67, (ii) x − y = 27 unless x exceeds 31, in which case condition (ii) is replaced by x·y = 940. You are told the override did occur. Find x and y.
+
+[f15_03] Two numbers x and y satisfy: (i) x + y = 114, (ii) x − y = 2 unless x exceeds 56, in which case condition (ii) is replaced by x·y = 3248. You are told the override did occur. Find x and y.
+
+[f15_04] Two numbers x and y satisfy: (i) x + y = 47, (ii) x − y = 21 unless x exceeds 18, in which case condition (ii) is replaced by x·y = 442. You are told the override did occur. Find x and y.
+
+[f15_05] Two numbers x and y satisfy: (i) x + y = 16, (ii) x − y = 10 unless x exceeds 7, in which case condition (ii) is replaced by x·y = 39. You are told the override did occur. Find x and y.
+
+[f15_06] Two numbers x and y satisfy: (i) x + y = 33, (ii) x − y = 11 unless x exceeds 17, in which case condition (ii) is replaced by x·y = 242. You are told the override did occur. Find x and y.
+
+[f15_07] Two numbers x and y satisfy: (i) x + y = 21, (ii) x − y = 19 unless x exceeds 5, in which case condition (ii) is replaced by x·y = 20. You are told the override did occur. Find x and y.
+
+[f15_08] Two numbers x and y satisfy: (i) x + y = 24, (ii) x − y = 6 unless x exceeds 9, in which case condition (ii) is replaced by x·y = 135. You are told the override did occur. Find x and y.
+
+[f15_09] Two numbers x and y satisfy: (i) x + y = 80, (ii) x − y = 36 unless x exceeds 47, in which case condition (ii) is replaced by x·y = 1276. You are told the override did occur. Find x and y.
+
+[f15_10] Two numbers x and y satisfy: (i) x + y = 30, (ii) x − y = 26 unless x exceeds 9, in which case condition (ii) is replaced by x·y = 56. You are told the override did occur. Find x and y.
+
+[f16_01] A sequence starts at a0 = 6. For n ≥ 0, define a_{n+1} = 1.2·a_n + 6 if a_n ≤ 60, and a_{n+1} = 1.2·a_n + 8 otherwise. Let N be the smallest index where a_N first exceeds 120. Compute N and a_N.
+
+[f16_02] A sequence starts at a0 = 18. For n ≥ 0, define a_{n+1} = 1.05·a_n + 3 if a_n ≤ 41, and a_{n+1} = 1.15·a_n + 16 otherwise. Let N be the smallest index where a_N first exceeds 201. Compute N and a_N.
+
+[f16_03] A sequence starts at a0 = 32. For n ≥ 0, define a_{n+1} = 1.3·a_n + 0 if a_n ≤ 34, and a_{n+1} = 1.55·a_n + 16 otherwise. Let N be the smallest index where a_N first exceeds 204. Compute N and a_N.
+
+[f16_04] A sequence starts at a0 = 34. For n ≥ 0, define a_{n+1} = 1.15·a_n + 14 if a_n ≤ 71, and a_{n+1} = 1.2·a_n + 13 otherwise. Let N be the smallest index where a_N first exceeds 97. Compute N and a_N.
+
+[f16_05] A sequence starts at a0 = 23. For n ≥ 0, define a_{n+1} = 1.3·a_n + 12 if a_n ≤ 17, and a_{n+1} = 1.1·a_n + 11 otherwise. Let N be the smallest index where a_N first exceeds 118. Compute N and a_N.
+
+[f16_06] A sequence starts at a0 = 30. For n ≥ 0, define a_{n+1} = 1.2·a_n + 10 if a_n ≤ 64, and a_{n+1} = 1.1·a_n + 10 otherwise. Let N be the smallest index where a_N first exceeds 160. Compute N and a_N.
+
+[f16_07] A sequence starts at a0 = 8. For n ≥ 0, define a_{n+1} = 1.2·a_n + 3 if a_n ≤ 30, and a_{n+1} = 1.1·a_n + 15 otherwise. Let N be the smallest index where a_N first exceeds 74. Compute N and a_N.
+
+[f16_08] A sequence starts at a0 = 39. For n ≥ 0, define a_{n+1} = 1.1·a_n + 1 if a_n ≤ 42, and a_{n+1} = 1.1·a_n + 9 otherwise. Let N be the smallest index where a_N first exceeds 196. Compute N and a_N.
+
+[f16_09] A sequence starts at a0 = 6. For n ≥ 0, define a_{n+1} = 1.2·a_n + 15 if a_n ≤ 69, and a_{n+1} = 1.65·a_n + 1 otherwise. Let N be the smallest index where a_N first exceeds 145. Compute N and a_N.
+
+[f16_10] A sequence starts at a0 = 14. For n ≥ 0, define a_{n+1} = 1.15·a_n + 12 if a_n ≤ 45, and a_{n+1} = 1.2·a_n + 18 otherwise. Let N be the smallest index where a_N first exceeds 240. Compute N and a_N.
+
+[f17_01] Worker A alone completes a job in 19 hours and Worker B alone in 9 hours. They work together for 4 hours. If by then less than 76% of the job is done, they add Worker C who works at 1.8 times A’s rate; otherwise A’s efficiency drops by 34% for the remaining time due to fatigue. Additionally, if the job finishes before 7 hours total, they receive a bonus 484 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_02] Worker A alone completes a job in 10 hours and Worker B alone in 6 hours. They work together for 2 hours. If by then less than 65% of the job is done, they add Worker C who works at 1.0 times A’s rate; otherwise A’s efficiency drops by 20% for the remaining time due to fatigue. Additionally, if the job finishes before 7 hours total, they receive a bonus 159 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_03] Worker A alone completes a job in 11 hours and Worker B alone in 19 hours. They work together for 6 hours. If by then less than 71% of the job is done, they add Worker C who works at 1.5 times A’s rate; otherwise A’s efficiency drops by 20% for the remaining time due to fatigue. Additionally, if the job finishes before 12 hours total, they receive a bonus 383 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_04] Worker A alone completes a job in 11 hours and Worker B alone in 18 hours. They work together for 5 hours. If by then less than 40% of the job is done, they add Worker C who works at 0.8 times A’s rate; otherwise A’s efficiency drops by 18% for the remaining time due to fatigue. Additionally, if the job finishes before 13 hours total, they receive a bonus 423 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_05] Worker A alone completes a job in 16 hours and Worker B alone in 15 hours. They work together for 4 hours. If by then less than 25% of the job is done, they add Worker C who works at 0.5 times A’s rate; otherwise A’s efficiency drops by 18% for the remaining time due to fatigue. Additionally, if the job finishes before 14 hours total, they receive a bonus 178 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_06] Worker A alone completes a job in 8 hours and Worker B alone in 14 hours. They work together for 4 hours. If by then less than 93% of the job is done, they add Worker C who works at 1.5 times A’s rate; otherwise A’s efficiency drops by 24% for the remaining time due to fatigue. Additionally, if the job finishes before 8 hours total, they receive a bonus 311 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_07] Worker A alone completes a job in 9 hours and Worker B alone in 17 hours. They work together for 1 hours. If by then less than 29% of the job is done, they add Worker C who works at 1.0 times A’s rate; otherwise A’s efficiency drops by 25% for the remaining time due to fatigue. Additionally, if the job finishes before 8 hours total, they receive a bonus 261 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_08] Worker A alone completes a job in 7 hours and Worker B alone in 17 hours. They work together for 4 hours. If by then less than 93% of the job is done, they add Worker C who works at 0.8 times A’s rate; otherwise A’s efficiency drops by 5% for the remaining time due to fatigue. Additionally, if the job finishes before 7 hours total, they receive a bonus 232 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_09] Worker A alone completes a job in 14 hours and Worker B alone in 17 hours. They work together for 1 hours. If by then less than 6% of the job is done, they add Worker C who works at 1.8 times A’s rate; otherwise A’s efficiency drops by 34% for the remaining time due to fatigue. Additionally, if the job finishes before 13 hours total, they receive a bonus 63 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f17_10] Worker A alone completes a job in 16 hours and Worker B alone in 19 hours. They work together for 3 hours. If by then less than 27% of the job is done, they add Worker C who works at 2.0 times A’s rate; otherwise A’s efficiency drops by 24% for the remaining time due to fatigue. Additionally, if the job finishes before 15 hours total, they receive a bonus 457 split proportional to individual hours worked. Find the total completion time and A’s bonus share.
+
+[f18_01] A store starts with 255 units costing 22.43 each. Each day for 12 days it sells 1 units at price 54.35; unsold inventory shrinks by 8% daily. Then it restocks 436 units at cost 11.45 and changes selling price to p2 for 11 days, selling 31 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 2.8955% relative to total cost, find p2.
+
+[f18_02] A store starts with 794 units costing 10.80 each. Each day for 5 days it sells 7 units at price 22.48; unsold inventory shrinks by 6% daily. Then it restocks 661 units at cost 12.19 and changes selling price to p2 for 15 days, selling 35 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 16.3728% relative to total cost, find p2.
+
+[f18_03] A store starts with 748 units costing 14.71 each. Each day for 10 days it sells 21 units at price 16.58; unsold inventory shrinks by 7% daily. Then it restocks 654 units at cost 6.95 and changes selling price to p2 for 14 days, selling 29 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 36.0068% relative to total cost, find p2.
+
+[f18_04] A store starts with 878 units costing 11.55 each. Each day for 16 days it sells 3 units at price 13.35; unsold inventory shrinks by 3% daily. Then it restocks 96 units at cost 7.89 and changes selling price to p2 for 11 days, selling 28 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 63.7468% relative to total cost, find p2.
+
+[f18_05] A store starts with 688 units costing 12.35 each. Each day for 16 days it sells 17 units at price 42.12; unsold inventory shrinks by 5% daily. Then it restocks 62 units at cost 23.19 and changes selling price to p2 for 14 days, selling 6 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 63.1272% relative to total cost, find p2.
+
+[f18_06] A store starts with 384 units costing 13.69 each. Each day for 7 days it sells 34 units at price 23.91; unsold inventory shrinks by 9% daily. Then it restocks 240 units at cost 28.09 and changes selling price to p2 for 6 days, selling 28 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 4.344% relative to total cost, find p2.
+
+[f18_07] A store starts with 134 units costing 4.40 each. Each day for 9 days it sells 2 units at price 17.63; unsold inventory shrinks by 9% daily. Then it restocks 73 units at cost 21.72 and changes selling price to p2 for 14 days, selling 4 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 43.161% relative to total cost, find p2.
+
+[f18_08] A store starts with 279 units costing 20.48 each. Each day for 10 days it sells 16 units at price 47.43; unsold inventory shrinks by 3% daily. Then it restocks 596 units at cost 17.37 and changes selling price to p2 for 18 days, selling 16 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 39.5864% relative to total cost, find p2.
+
+[f18_09] A store starts with 267 units costing 19.71 each. Each day for 15 days it sells 12 units at price 36.69; unsold inventory shrinks by 4% daily. Then it restocks 74 units at cost 20.91 and changes selling price to p2 for 10 days, selling 2 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 14.7651% relative to total cost, find p2.
+
+[f18_10] A store starts with 899 units costing 23.21 each. Each day for 12 days it sells 28 units at price 61.13; unsold inventory shrinks by 3% daily. Then it restocks 102 units at cost 5.50 and changes selling price to p2 for 7 days, selling 10 units per day (cannot exceed inventory). Given the total profit margin over the whole period is 9.5613% relative to total cost, find p2.
+
+[f19_01] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.5, wP=0.25, wQ=0.25 (summing to 1). However, if E is below 60, the exam weight increases by 0.05 and the project weight decreases by 0.05 (quiz unchanged). A student has P=66, Q=60, and final score 57.9. Given the adjustment did occur, find E.
+
+[f19_02] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.4, wP=0.35, wQ=0.25 (summing to 1). However, if E is below 74, the exam weight increases by 0.15 and the project weight decreases by 0.15 (quiz unchanged). A student has P=56, Q=80, and final score 65.3. Given the adjustment did occur, find E.
+
+[f19_03] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.4, wP=0.35, wQ=0.25 (summing to 1). However, if E is below 51, the exam weight increases by 0.05 and the project weight decreases by 0.05 (quiz unchanged). A student has P=55, Q=71, and final score 56.75. Given the adjustment did occur, find E.
+
+[f19_04] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.45, wP=0.25, wQ=0.3 (summing to 1). However, if E is below 45, the exam weight increases by 0.15 and the project weight decreases by 0.15 (quiz unchanged). A student has P=57, Q=74, and final score 40.5. Given the adjustment did occur, find E.
+
+[f19_05] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.4, wP=0.35, wQ=0.25 (summing to 1). However, if E is below 75, the exam weight increases by 0.1 and the project weight decreases by 0.1 (quiz unchanged). A student has P=84, Q=94, and final score 64.0. Given the adjustment did occur, find E.
+
+[f19_06] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.5, wP=0.3, wQ=0.2 (summing to 1). However, if E is below 51, the exam weight increases by 0.15 and the project weight decreases by 0.15 (quiz unchanged). A student has P=44, Q=46, and final score 29.45. Given the adjustment did occur, find E.
+
+[f19_07] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.45, wP=0.3, wQ=0.25 (summing to 1). However, if E is below 68, the exam weight increases by 0.1 and the project weight decreases by 0.1 (quiz unchanged). A student has P=67, Q=54, and final score 41.2. Given the adjustment did occur, find E.
+
+[f19_08] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.35, wP=0.45, wQ=0.2 (summing to 1). However, if E is below 60, the exam weight increases by 0.1 and the project weight decreases by 0.1 (quiz unchanged). A student has P=92, Q=66, and final score 57.55. Given the adjustment did occur, find E.
+
+[f19_09] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.5, wP=0.4, wQ=0.1 (summing to 1). However, if E is below 85, the exam weight increases by 0.05 and the project weight decreases by 0.05 (quiz unchanged). A student has P=86, Q=83, and final score 63.15. Given the adjustment did occur, find E.
+
+[f19_10] A final score is computed from Exam E, Project P, and Quiz average Q with weights wE=0.45, wP=0.45, wQ=0.1 (summing to 1). However, if E is below 55, the exam weight increases by 0.15 and the project weight decreases by 0.15 (quiz unchanged). A student has P=42, Q=49, and final score 42.7. Given the adjustment did occur, find E.
+
+[f20_01] You start with 3299.26 in currency A. You exchange to currency B at rate 1.934 with fee 4.96%, then to currency C at rate rBC with a flat fee 79.87 (in currency B), then back to A at rate 0.4004 with fee 2.1%. If the final amount in A is 3241.6243, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.04835.
+
+[f20_02] You start with 5674.95 in currency A. You exchange to currency B at rate 0.9965 with fee 2.82%, then to currency C at rate rBC with a flat fee 39.48 (in currency B), then back to A at rate 1.8999 with fee 1.85%. If the final amount in A is 5570.9437, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.033936.
+
+[f20_03] You start with 2248.78 in currency A. You exchange to currency B at rate 2.002 with fee 4.86%, then to currency C at rate rBC with a flat fee 36.13 (in currency B), then back to A at rate 1.9143 with fee 2.94%. If the final amount in A is 2183.6223, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.021415.
+
+[f20_04] You start with 6783.56 in currency A. You exchange to currency B at rate 2.0782 with fee 3.06%, then to currency C at rate rBC with a flat fee 71.17 (in currency B), then back to A at rate 0.6496 with fee 4.16%. If the final amount in A is 6618.5892, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.028237.
+
+[f20_05] You start with 1689.16 in currency A. You exchange to currency B at rate 1.9674 with fee 1.16%, then to currency C at rate rBC with a flat fee 116.14 (in currency B), then back to A at rate 1.7948 with fee 3.77%. If the final amount in A is 1676.0076, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.014975.
+
+[f20_06] You start with 4311.52 in currency A. You exchange to currency B at rate 0.7794 with fee 1.59%, then to currency C at rate rBC with a flat fee 32.77 (in currency B), then back to A at rate 0.5547 with fee 1.64%. If the final amount in A is 4201.1397, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.120305.
+
+[f20_07] You start with 6519.1 in currency A. You exchange to currency B at rate 0.6238 with fee 1.28%, then to currency C at rate rBC with a flat fee 45.26 (in currency B), then back to A at rate 1.5594 with fee 5.61%. If the final amount in A is 6463.0425, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.063312.
+
+[f20_08] You start with 4085.54 in currency A. You exchange to currency B at rate 0.4529 with fee 2.33%, then to currency C at rate rBC with a flat fee 66.29 (in currency B), then back to A at rate 0.9006 with fee 0.5%. If the final amount in A is 4039.5277, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.107791.
+
+[f20_09] You start with 4707.87 in currency A. You exchange to currency B at rate 1.7483 with fee 4.73%, then to currency C at rate rBC with a flat fee 142.43 (in currency B), then back to A at rate 1.4957 with fee 0.62%. If the final amount in A is 4586.8919, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.018087.
+
+[f20_10] You start with 3214.52 in currency A. You exchange to currency B at rate 0.9263 with fee 0.7%, then to currency C at rate rBC with a flat fee 178.14 (in currency B), then back to A at rate 1.2332 with fee 4.83%. If the final amount in A is 3123.7465, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by 0.059071.
+
+[f21_01] You must produce 224 units using Machine 1 and Machine 2. Machine 1 cost is 6 per unit up to 118 units then 8 per unit beyond; Machine 2 cost is 12 per unit up to 93 units then 2 per unit beyond. Additionally, Machine 1 output cannot exceed 175, and at least 49 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_02] You must produce 344 units using Machine 1 and Machine 2. Machine 1 cost is 3 per unit up to 168 units then 10 per unit beyond; Machine 2 cost is 9 per unit up to 164 units then 4 per unit beyond. Additionally, Machine 1 output cannot exceed 205, and at least 144 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_03] You must produce 271 units using Machine 1 and Machine 2. Machine 1 cost is 4 per unit up to 12 units then 12 per unit beyond; Machine 2 cost is 10 per unit up to 165 units then 1 per unit beyond. Additionally, Machine 1 output cannot exceed 252, and at least 50 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_04] You must produce 409 units using Machine 1 and Machine 2. Machine 1 cost is 2 per unit up to 141 units then 12 per unit beyond; Machine 2 cost is 8 per unit up to 257 units then 4 per unit beyond. Additionally, Machine 1 output cannot exceed 293, and at least 120 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_05] You must produce 243 units using Machine 1 and Machine 2. Machine 1 cost is 6 per unit up to 192 units then 17 per unit beyond; Machine 2 cost is 9 per unit up to 38 units then 2 per unit beyond. Additionally, Machine 1 output cannot exceed 225, and at least 72 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_06] You must produce 276 units using Machine 1 and Machine 2. Machine 1 cost is 2 per unit up to 203 units then 16 per unit beyond; Machine 2 cost is 4 per unit up to 257 units then 2 per unit beyond. Additionally, Machine 1 output cannot exceed 255, and at least 119 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_07] You must produce 388 units using Machine 1 and Machine 2. Machine 1 cost is 6 per unit up to 232 units then 13 per unit beyond; Machine 2 cost is 9 per unit up to 57 units then 2 per unit beyond. Additionally, Machine 1 output cannot exceed 362, and at least 133 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_08] You must produce 221 units using Machine 1 and Machine 2. Machine 1 cost is 8 per unit up to 111 units then 18 per unit beyond; Machine 2 cost is 7 per unit up to 95 units then 1 per unit beyond. Additionally, Machine 1 output cannot exceed 133, and at least 92 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_09] You must produce 308 units using Machine 1 and Machine 2. Machine 1 cost is 8 per unit up to 22 units then 12 per unit beyond; Machine 2 cost is 5 per unit up to 207 units then 2 per unit beyond. Additionally, Machine 1 output cannot exceed 184, and at least 133 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f21_10] You must produce 104 units using Machine 1 and Machine 2. Machine 1 cost is 2 per unit up to 44 units then 14 per unit beyond; Machine 2 cost is 11 per unit up to 60 units then 7 per unit beyond. Additionally, Machine 1 output cannot exceed 79, and at least 25 units must come from Machine 2. Find the minimum total cost and the optimal split.
+
+[f22_01] A quadratic f(t)=a t^2 + b t + c satisfies f(-6)=-3, f(-5)=-2, and f(-1)=-18. In addition, the vertex occurs at t=-5 (i.e., −b/(2a)=-5) and you are told a is an integer. Find (a,b,c).
+
+[f22_02] A quadratic f(t)=a t^2 + b t + c satisfies f(-3)=111, f(-2)=90, and f(-1)=63. In addition, the vertex occurs at t=-6 (i.e., −b/(2a)=-6) and you are told a is an integer. Find (a,b,c).
+
+[f22_03] A quadratic f(t)=a t^2 + b t + c satisfies f(-8)=118, f(-6)=74, and f(-1)=-1. In addition, the vertex occurs at t=4 (i.e., −b/(2a)=4) and you are told a is an integer. Find (a,b,c).
+
+[f22_04] A quadratic f(t)=a t^2 + b t + c satisfies f(-6)=76, f(-2)=28, and f(6)=124. In addition, the vertex occurs at t=-1 (i.e., −b/(2a)=-1) and you are told a is an integer. Find (a,b,c).
+
+[f22_05] A quadratic f(t)=a t^2 + b t + c satisfies f(-5)=-45, f(-2)=-12, and f(5)=-5. In addition, the vertex occurs at t=2 (i.e., −b/(2a)=2) and you are told a is an integer. Find (a,b,c).
+
+[f22_06] A quadratic f(t)=a t^2 + b t + c satisfies f(-1)=19, f(1)=19, and f(6)=-51. In addition, the vertex occurs at t=0 (i.e., −b/(2a)=0) and you are told a is an integer. Find (a,b,c).
+
+[f22_07] A quadratic f(t)=a t^2 + b t + c satisfies f(0)=21, f(4)=69, and f(8)=181. In addition, the vertex occurs at t=-1 (i.e., −b/(2a)=-1) and you are told a is an integer. Find (a,b,c).
+
+[f22_08] A quadratic f(t)=a t^2 + b t + c satisfies f(-8)=202, f(-6)=130, and f(2)=2. In addition, the vertex occurs at t=2 (i.e., −b/(2a)=2) and you are told a is an integer. Find (a,b,c).
+
+[f22_09] A quadratic f(t)=a t^2 + b t + c satisfies f(-4)=21, f(0)=21, and f(8)=-363. In addition, the vertex occurs at t=-2 (i.e., −b/(2a)=-2) and you are told a is an integer. Find (a,b,c).
+
+[f22_10] A quadratic f(t)=a t^2 + b t + c satisfies f(0)=12, f(5)=-128, and f(6)=-132. In addition, the vertex occurs at t=6 (i.e., −b/(2a)=6) and you are told a is an integer. Find (a,b,c).

@@ -1,0 +1,42 @@
+{
+  "A right circular cone has base radius $9$ and height $12$. A plane cuts the cone and intersects the base circle in a chord of length $12$, producing an elliptical cross-section. The plane is perpendicular to the base, and its line of intersection with the base passes through the center of the base circle. Determine the area of the elliptical cross-section.": {
+    "response1": [
+      "1) Identify the dimensions of the cone: base radius 9, height 12.",
+      "2) Determine the properties of the elliptical cross-section: chord length 12, plane perpendicular to base, passing through center.",
+      "3) Compute the distance from the apex of the cone to the chord: using Pythagorean theorem, distance = sqrt(12² - 6²) = sqrt(108) = 6√3.",
+      "4) Compute the semi-major axis of the ellipse: a = 9.",
+      "5) Compute the semi-minor axis of the ellipse: b = 6√3.",
+      "6) Use the formula for the area of an ellipse: πab."
+    ],
+    "response2": [
+      "1) Identify the dimensions of the cone: base radius 9, height 12.",
+      "2) Determine the length of the chord in the base circle: 12.",
+      "3) Compute the distance from the center of the base to the chord: since the chord is 12 and the radius is 9, the distance is $\\sqrt{9^2 - 6^2} = \\sqrt{81 - 36} = \\sqrt{45} = 3\\sqrt{5}$.",
+      "4) Compute the semi-major axis of the ellipse: $\\frac{12}{2} = 6$.",
+      "5) Compute the semi-minor axis of the ellipse: $\\sqrt{12^2 - (3\\sqrt{5})^2} = \\sqrt{144 - 45} = \\sqrt{99} = 3\\sqrt{11}$.",
+      "6) Compute the area of the ellipse: $\\pi \\times 6 \\times 3\\sqrt{11}$.",
+      "7) Record the area of the elliptical cross-section as <ANS>."
+    ],
+    "response3": [
+      "1) Identify the dimensions of the cone: base radius 9, height 12.",
+      "2) Determine the distance from the center of the base to the chord: since the chord length is 12 and it passes through the center, the distance is 0.",
+      "3) Compute the semi-minor axis of the ellipse: it is equal to the height of the cone, 12.",
+      "4) Compute the semi-major axis of the ellipse: it is equal to the slant height of the cone, which is $\\sqrt{9^2 + 12^2}$.",
+      "5) Use the formula for the area of an ellipse: $\\text{Area} = \\pi \\times \\text{semi-major axis} \\times \\text{semi-minor axis}$."
+    ],
+    "response4": [
+      "1) Identify the dimensions of the cone: base radius 9, height 12.",
+      "2) Determine the plane's orientation: perpendicular to the base and passing through the center of the base circle.",
+      "3) Recognize that the cross-section is an ellipse with major axis equal to the diameter of the base circle (18) and minor axis equal to the height of the cone (12).",
+      "4) Compute the area of the ellipse using the formula: $ \\text{Area} = \\pi \\times \\text{major axis} \\times \\text{minor axis} $."
+    ],
+    "response5": [
+      "1) Identify the dimensions of the cone: base radius = 9, height = 12.",
+      "2) Determine the geometry of the cross-section: the plane is perpendicular to the base and intersects the base circle through its center.",
+      "3) Compute the distance from the center of the base to the chord: since the chord length is 12 and the base radius is 9, the distance is <E1>.",
+      "4) Use the formula for the area of an ellipse: $ \\text{Area} = \\pi \\times \\text{semi-major axis} \\times \\text{semi-minor axis} $.",
+      "5) Compute the semi-major and semi-minor axes of the ellipse: the semi-major axis is the height of the cone, and the semi-minor axis is the distance from the center of the base to the chord, scaled by the cone's slope.",
+      "6) Compute the area of the elliptical cross-section and record it as <ANS>."
+    ]
+  }
+}

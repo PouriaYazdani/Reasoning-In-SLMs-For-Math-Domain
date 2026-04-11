@@ -1,0 +1,39 @@
+{
+  "A circle $\\omega$ has center $O$ and radius $10$. A chord $AB$ of $\\omega$ has length $12$. Point $P$ lies on the minor arc $AB$. The tangents to $\\omega$ at $A$ and $B$ meet at point $T$. Given that line $TP$ intersects segment $AB$ at its midpoint, determine the measure of $\\angle AOB$ in degrees.": {
+    "response1": [
+      "1) Identify the midpoint of chord AB as M.",
+      "2) Recognize that triangle AMT is similar to triangle OBT.",
+      "3) Use the property that the tangents at A and B are equal in length.",
+      "4) Apply the power of a point theorem to find the relationship between the lengths of segments.",
+      "5) Set up an equation based on the given information and solve for the measure of angle AOB."
+    ],
+    "response2": [
+      "1) Identify the midpoint of chord AB as M.",
+      "2) Recognize that OM is perpendicular to AB and has length <E1>.",
+      "3) Use the Pythagorean theorem in triangle OMB to find the length of <E2>.",
+      "4) Use the Law of Cosines in triangle OAB to relate the sides and angle AOB.",
+      "5) Solve for angle AOB using the relationship between the sides and the cosine of the angle."
+    ],
+    "response3": [
+      "1) Identify the midpoint of chord AB as M.",
+      "2) Recognize that triangle AOB is an isosceles triangle with OA = OB = 10 and AB = 12.",
+      "3) Use the Law of Cosines to relate the sides of triangle AOB to the angle ∠AOB.",
+      "4) Use the property of tangents at A and B to find the relationship between ∠ATB and ∠AOB.",
+      "5) Use the given condition that line TP intersects AB at its midpoint to find the measure of ∠AOB."
+    ],
+    "response4": [
+      "1) Identify the midpoint of chord AB as M.",
+      "2) Use the property that tangents at A and B meet at T and form an isosceles triangle TAB.",
+      "3) Use the fact that TP intersects AB at M and apply the properties of intersecting chords and tangents.",
+      "4) Use the given length of AB (12) and the radius of the circle (10) to find the distance from O to AB.",
+      "5) Use the law of cosines in triangle AOB to find the measure of angle AOB."
+    ],
+    "response5": [
+      "1) Identify the midpoint of chord AB as M.",
+      "2) Recognize that TM is the angle bisector of ∠ATB.",
+      "3) Use the fact that ∠ATB is equal to ∠AOB.",
+      "4) Apply the property that the angle between two tangents from a point outside a circle is equal to the difference of the measures of the intercepted arcs.",
+      "5) Use the given length of AB to find the measure of ∠AOB."
+    ]
+  }
+}

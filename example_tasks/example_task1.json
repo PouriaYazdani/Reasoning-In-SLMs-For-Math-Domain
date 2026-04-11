@@ -1,0 +1,32 @@
+{
+  "Let the cubic $x^{3}-ax^{2}+bx-c=0$ have roots $r,s,t$ with $rs=6$, $rt=8$, $st=9$, and $r^{2}+s^{2}+t^{2}=38$. Find $a$, $b$, and $c$.": {
+    "response1": [
+      "1) Use Vieta's formulas to relate the coefficients of the cubic to the roots: $a = r + s + t$, $b = rs + rt + st$, $c = rst$.",
+      "2) Compute $r + s + t$ using the given values of $rs = 6$, $rt = 8$, and $st = 9$.",
+      "3) Compute $rs + rt + st$ using the given values of $rs = 6$, $rt = 8$, and $st = 9$.",
+      "4) Compute $rst$ using the given values of $rs = 6$, $rt = 8$, and $st = 9$."
+    ],
+    "response2": [
+      "1) Use Vieta's formulas to express $a$, $b$, and $c$ in terms of the roots $r$, $s$, and $t$.",
+      "2) Use the given conditions $rs=6$, $rt=8$, $st=9$ to find the values of $r$, $s$, and $t$.",
+      "3) Compute $a$, $b$, and $c$ using the expressions derived from Vieta's formulas."
+    ],
+    "response3": [
+      "1) Use Vieta's formulas to find $a$, $b$, and $c$ in terms of $r$, $s$, and $t$.",
+      "2) Use the given conditions $rs=6$, $rt=8$, $st=9$ to find $r$, $s$, and $t$.",
+      "3) Compute $r^{2}+s^{2}+t^{2}$ and verify it matches the given value of 38.",
+      "4) Substitute the values of $r$, $s$, and $t$ into the expressions for $a$, $b$, and $c$."
+    ],
+    "response4": [
+      "1) Use Vieta's formulas to express $a$, $b$, and $c$ in terms of the roots $r$, $s$, and $t$.",
+      "2) Use the given conditions $rs=6$, $rt=8$, $st=9$ to find $r$, $s$, and $t$.",
+      "3) Compute $r^{2}+s^{2}+t^{2}$ and verify it matches the given value of 38.",
+      "4) Substitute the values of $r$, $s$, and $t$ into the expressions for $a$, $b$, and $c$."
+    ],
+    "response5": [
+      "1) Use Vieta's formulas to express $a$, $b$, and $c$ in terms of the roots $r$, $s$, and $t$.",
+      "2) Use the given conditions $rs=6$, $rt=8$, $st=9$ to find the values of $r$, $s$, and $t$.",
+      "3) Use the given condition $r^{2}+s^{2}+t^{2}=38$ to verify the values of $r$, $s$, and $t$."
+    ]
+  }
+}

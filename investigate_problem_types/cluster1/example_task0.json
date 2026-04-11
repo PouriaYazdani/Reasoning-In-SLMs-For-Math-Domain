@@ -1,0 +1,34 @@
+{
+  "A number $N$ is written in base $10$ with no leading zeros. Exactly one of the following statements about $N$ is true: (i) $N$ is divisible by $6$; (ii) the sum of the digits of $N$ is divisible by $9$; (iii) $N$ leaves remainder $1$ when divided by $4$. Given that $1000 \\le N \\le 9999$ and that $N$ is divisible by $5$, how many possible values of $N$ are there?": {
+    "response1": [
+      "1) Identify the constraints: $1000 \\le N \\le 9999$, $N$ is divisible by $5$, and exactly one of the statements (i), (ii), (iii) is true.",
+      "2) Determine the possible values of $N$ that satisfy the divisibility by $5$.",
+      "3) For each valid $N$, check if exactly one of the statements (i), (ii), (iii) is true.",
+      "4) Count the number of such $N$ that meet the criteria."
+    ],
+    "response2": [
+      "1) Identify the constraints: $1000 \\le N \\le 9999$, $N$ is divisible by 5, and exactly one of the statements (i), (ii), (iii) is true.",
+      "2) Determine the possible values of $N$ that are divisible by 5 and lie in the given range.",
+      "3) For each valid $N$, check whether exactly one of the statements (i), (ii), (iii) is true.",
+      "4) Count the number of such $N$ that satisfy the conditions."
+    ],
+    "response3": [
+      "1) Identify the constraints: $1000 \\le N \\le 9999$, $N$ is divisible by $5$, and exactly one of the statements (i), (ii), (iii) is true.",
+      "2) Determine the possible values of $N$ that are divisible by $5$ in the given range.",
+      "3) For each such $N$, check if it satisfies exactly one of the three conditions (i), (ii), (iii).",
+      "4) Count the number of such $N$ that meet the criteria."
+    ],
+    "response4": [
+      "1) Identify the constraints: $1000 \\le N \\le 9999$, $N$ is divisible by $5$, and exactly one of the statements (i), (ii), (iii) is true.",
+      "2) Determine the conditions for each statement to be true.",
+      "3) Use logical elimination to find valid $N$ values that satisfy the constraints and exactly one statement is true.",
+      "4) Count the number of such $N$ values."
+    ],
+    "response5": [
+      "1) Identify that $N$ is divisible by 5 and lies between 1000 and 9999.",
+      "2) Determine that exactly one of the statements (i), (ii), or (iii) is true.",
+      "3) Use the conditions to eliminate invalid values of $N$.",
+      "4) Count the number of valid $N$ that satisfy the conditions."
+    ]
+  }
+}

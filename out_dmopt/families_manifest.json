@@ -1,0 +1,42 @@
+[
+  {
+    "family_id": "f23",
+    "title": "Project schedule with precedence, overtime, and penalty threshold",
+    "template": "A project has tasks A, B, C, D with durations dA={dA}, dB={dB}, dC={dC}, dD={dD}. Task B and C start after A; D starts after both B and C. You can pay overtime to reduce any single task by up to {r}% at cost {c} per hour reduced. If total completion time exceeds {T}, you pay penalty {P} per hour late, but if you finish at or before {T2} you receive bonus {B}. Find the minimum expected cost assuming overtime decisions are made after you learn that task C’s duration is actually dC+{Delta} (with probability {p}) otherwise dC."
+  },
+  {
+    "family_id": "f24",
+    "title": "Bin packing with tiered shipping and must-split constraints",
+    "template": "You must ship {N} items with weights {weights}. Boxes have max capacity {Cap}. Shipping cost is {c1} per box for the first {m} boxes and {c2} thereafter, plus surcharge {S} if any box exceeds {theta} weight. Additionally, items in set {FRAGILE_SET} cannot share a box with items in {HEAVY_SET}. Find the minimum total shipping cost."
+  },
+  {
+    "family_id": "f25",
+    "title": "Shortest path with time-dependent tolls and conditional detour",
+    "template": "A driver travels from {Start} to {End} through a directed graph with edges: {EDGES}. If the cumulative toll paid so far exceeds {TollCap}, all subsequent tolls are discounted by {d}%. However, if the driver enters node {X} before time {tau}, edge {e_star} becomes unavailable. Find the minimum possible total cost defined as {alpha}*(total time)+{beta}*(total toll)."
+  },
+  {
+    "family_id": "f26",
+    "title": "Inventory replenishment with lead time and stockout penalties",
+    "template": "Daily demand is {d1} units for days 1–{H1}, then {d2} units for days {H1_plus_1}–{H}. You start with {I0} units, can place an order any day which arrives after {L} days with fixed ordering cost {K} plus {c} per unit ordered. Holding cost is {h} per unit per day; stockout cost is {p} per unit unmet demand (lost sales). Additionally, if inventory ever falls below {S}, you must place an emergency order of {E} units (arrives in {Le} days at premium cost {cp}). Find the minimum total cost ordering policy under these rules."
+  },
+  {
+    "family_id": "f27",
+    "title": "Counting with inclusion–exclusion plus at least/exactly mix",
+    "template": "In a class of {N} students, {a} take Math, {b} take Physics, {c} take CS. Exactly {ab} take Math and Physics, {ac} take Math and CS, {bc} take Physics and CS, and {abc} take all three. Additionally, {z} take none. Determine how many take exactly one subject and verify consistency of the data."
+  },
+  {
+    "family_id": "f28",
+    "title": "Flow with capacity upgrades triggered by threshold usage",
+    "template": "A network has a single source and sink with parallel edges described by: {EDGES}. You must send {F} units. If any edge carries more than {u} units, its capacity increases by {DeltaCap} but its cost increases by {DeltaCost} for all units on that edge. Find the minimum total cost flow."
+  },
+  {
+    "family_id": "f29",
+    "title": "Assignment with fairness constraint and penalty for imbalance",
+    "template": "{n} workers must be assigned to {n} tasks with base costs given by COST_MATRIX={COST_MATRIX} (row i is worker i, column j is task j). Total cost is the sum of assigned costs plus penalty {lam} times the absolute difference between total assigned cost for Group 1 workers {G1} and Group 2 workers {G2}. Additionally, at least {m} tasks in set {HARD_SET} must be assigned to Group 1. Find the assignment minimizing total cost."
+  },
+  {
+    "family_id": "f30",
+    "title": "Multi-stage counting of schedules with forbidden patterns",
+    "template": "A conference has {D} days and {S} sessions per day. You must schedule {A} talks of type X and {B} talks of type Y. Constraints: each day must include at least {u} X talks, no two Y talks can be consecutive within a day, and the first session of each day cannot be Y if the last session of the previous day was Y. Count the number of valid schedules."
+  }
+]

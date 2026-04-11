@@ -1,0 +1,53 @@
+{
+  "An urn initially contains $5$ red, $4$ blue, and $3$ green balls. Three balls are drawn uniformly at random without replacement. If at least two of the three are red, then $3$ blue balls are added to the urn; if exactly one is red, then $2$ red and $1$ green are added; otherwise, $4$ red are added. After the addition, one more ball is drawn. What is the probability that this fourth ball is red?": {
+    "response1": [
+      "1) Determine the probability that at least two of the three drawn balls are red.",
+      "2) Compute the probability of drawing a red ball given that at least two are red.",
+      "3) Compute the probability that exactly one of the three drawn balls is red.",
+      "4) Compute the probability that no red balls are drawn.",
+      "5) Compute the probability of drawing a red ball given that exactly one is red.",
+      "6) Compute the probability of drawing a red ball given that no red balls are drawn.",
+      "7) Compute the total probability of drawing a red ball after the addition."
+    ],
+    "response2": [
+      "1) Determine the total number of balls in the urn initially: <T>.",
+      "2) Compute the number of ways to draw 3 balls from the urn: <C1>.",
+      "3) Compute the number of ways to draw 3 balls with at least 2 red: <E1>.",
+      "4) Compute the number of ways to draw 3 balls with exactly 1 red: <E2>.",
+      "5) Compute the number of ways to draw 3 balls with 0 red: <E3>.",
+      "6) Compute the probability of drawing at least 2 red balls: <P1>.",
+      "7) Compute the probability of drawing exactly 1 red ball: <P2>.",
+      "8) Compute the probability of drawing 0 red balls: <P3>.",
+      "9) Compute the probability of drawing 3 blue balls: <R1>.",
+      "10) Compute the probability of drawing 2 red and 1 green: <R2>.",
+      "11) Compute the probability of drawing 4 red balls: <R3>.",
+      "12) Compute the probability of drawing a red ball after the addition: <ANS>."
+    ],
+    "response3": [
+      "1) Determine the probability that at least two red balls are drawn in the first three draws.",
+      "2) Compute the probability of drawing a red ball given that at least two red balls were drawn in the first three draws.",
+      "3) Compute the probability that exactly one red ball is drawn in the first three draws.",
+      "4) Compute the probability that no red balls are drawn in the first three draws.",
+      "5) Compute the conditional probability of drawing a red ball after the addition of balls based on the first three draws.",
+      "6) Compute the overall probability that the fourth ball is red."
+    ],
+    "response4": [
+      "1) Determine the total number of balls in the urn initially: <T> = 5 + 4 + 3 = 12.",
+      "2) Compute the probability that at least two of the three drawn balls are red: <P1>.",
+      "3) Compute the probability that exactly one of the three drawn balls is red: <P2>.",
+      "4) Compute the probability that no of the three drawn balls is red: <P3>.",
+      "5) Compute the expected number of red balls added to the urn: <E1> = <P1>*3 + <P2>*2 + <P3>*4.",
+      "6) Compute the total number of balls in the urn after the addition: <T1> = <T> + <E1>.",
+      "7) Compute the probability that the fourth ball drawn is red: <P4> = <R1> / <T1>, where <R1> is the number of red balls in the urn after the addition."
+    ],
+    "response5": [
+      "1) Determine the total number of balls in the urn initially: <T>.",
+      "2) Compute the probability that at least two of the three drawn balls are red: <P1>.",
+      "3) Compute the probability that exactly one of the three drawn balls is red: <P2>.",
+      "4) Compute the probability that none of the three drawn balls are red: <P3>.",
+      "5) Compute the expected number of red balls added to the urn: <E1>.",
+      "6) Compute the total number of balls in the urn after the addition: <T1>.",
+      "7) Compute the probability that the fourth ball drawn is red: <P4>."
+    ]
+  }
+}

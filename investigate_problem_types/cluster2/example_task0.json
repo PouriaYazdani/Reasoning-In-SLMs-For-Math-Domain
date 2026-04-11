@@ -1,0 +1,38 @@
+{
+  "A function $f : \\mathbb{R} \\to \\mathbb{R}$ satisfies $f(x+y) + f(x-y) = 2f(x)f(y)$ for all real $x,y$, with $f(0) = 1$. The function is continuous at $0$ and satisfies $f(1) = \\tfrac{3}{2}$. Determine the value of $f(2)$.": {
+    "response1": [
+      "1) Identify the functional equation: $f(x+y) + f(x-y) = 2f(x)f(y)$.",
+      "2) Substitute $x = 0$ and $y = 0$ into the equation to find $f(0)$.",
+      "3) Use the given $f(0) = 1$ to verify the equation holds.",
+      "4) Substitute $y = 0$ into the equation to find $f(x)$ in terms of $f(x)$.",
+      "5) Use the given $f(1) = \\tfrac{3}{2}$ to solve for $f(2)$."
+    ],
+    "response2": [
+      "1) Recognize the functional equation $f(x+y) + f(x-y) = 2f(x)f(y)$ as a known form of a functional equation.",
+      "2) Substitute $x = 0$ and $y = 0$ into the equation to find $f(0) = 1$.",
+      "3) Substitute $x = 1$ and $y = 0$ into the equation to find $f(1) = \\tfrac{3}{2}$.",
+      "4) Use the functional equation to find $f(2)$ by substituting $x = 1$ and $y = 1$."
+    ],
+    "response3": [
+      "1) Identify the functional equation: $f(x+y) + f(x-y) = 2f(x)f(y)$.",
+      "2) Plug in $x = 0$ and $y = 0$ into the equation to get $f(0) + f(0) = 2f(0)f(0)$.",
+      "3) Use the given value $f(0) = 1$ to simplify the equation and solve for $f(0)$.",
+      "4) Use the given value $f(1) = \\tfrac{3}{2}$ to find a pattern or recurrence relation for $f(n)$.",
+      "5) Use the recurrence relation to compute $f(2)$."
+    ],
+    "response4": [
+      "1) Recognize the functional equation $f(x+y) + f(x-y) = 2f(x)f(y)$ as a known form of a functional equation.",
+      "2) Substitute $x = 0$ and $y = 0$ into the equation to find $f(0) = 1$.",
+      "3) Substitute $y = 0$ into the equation to find $f(x) + f(x) = 2f(x)f(0)$, which simplifies to $2f(x) = 2f(x) \\cdot 1$.",
+      "4) Substitute $x = 1$ and $y = 0$ into the equation to find $f(1) + f(1) = 2f(1)f(0)$, which simplifies to $2 \\cdot \\frac{3}{2} = 2 \\cdot \\frac{3}{2} \\cdot 1$.",
+      "5) Use the result from step 4 to find $f(2)$ by substituting $x = 2$ and $y = 0$ into the equation."
+    ],
+    "response5": [
+      "1) Recognize the functional equation $f(x+y) + f(x-y) = 2f(x)f(y)$ as a known form of a functional equation.",
+      "2) Substitute $x = 0$ and $y = 0$ into the equation to find $f(0)$.",
+      "3) Use the given value $f(0) = 1$ to simplify the equation.",
+      "4) Substitute $y = x$ into the equation to find a relationship between $f(x)$ and $f(2x)$.",
+      "5) Use the given value $f(1) = \\tfrac{3}{2}$ to find $f(2)$ by applying the relationship derived in step 4."
+    ]
+  }
+}

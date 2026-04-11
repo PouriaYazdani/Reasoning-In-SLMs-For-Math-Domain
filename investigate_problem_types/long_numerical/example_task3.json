@@ -1,0 +1,41 @@
+{
+  "A bank offers two repayment options for a loan of €$18{,}000$ over $12$ months. Plan 1 charges a fixed monthly interest rate of $1.2%$ on the remaining balance and requires equal monthly payments. Plan 2 charges $0.9%$ monthly interest for the first $6$ months and $1.5%$ for the last $6$ months, and requires payments of €$1{,}200$ for months $1$–$6$ and a constant payment amount €$P$ for months $7$–$12$ that fully amortizes the loan. What is the value of €$P$, and by how many euros is the total paid under Plan 2 larger or smaller than under Plan 1?": {
+    "response1": [
+      "1) Compute the remaining balance after 6 months under Plan 1 and determine the monthly payment <E1>.",
+      "2) Compute the remaining balance after 6 months under Plan 2 and determine the monthly payment <E2>.",
+      "3) Compute the total paid under Plan 1 as 12 × <E1>.",
+      "4) Compute the total paid under Plan 2 as 6 × 1200 + 6 × <E2>.",
+      "5) Compute the difference between the total paid under Plan 2 and Plan 1 as <ANS> - <E1> × 12."
+    ],
+    "response2": [
+      "1) Compute the remaining balance after 6 months under Plan 1 and determine the monthly payment <E1>.",
+      "2) Compute the remaining balance after 6 months under Plan 2 and determine the monthly payment <E2>.",
+      "3) Compute the total payment under Plan 1 as 12 × <E1> and record it as <ANS1>.",
+      "4) Compute the total payment under Plan 2 as 6 × 1200 + 6 × <E2> and record it as <ANS2>.",
+      "5) Compute the difference between <ANS2> and <ANS1> and record it as <DIF>.",
+      "6) Record the value of <DIF> as the final answer."
+    ],
+    "response3": [
+      "1) Compute the remaining balance after 6 months under Plan 1 and determine the monthly payment <E1>.",
+      "2) Compute the remaining balance after 6 months under Plan 2 and determine the monthly payment <E2>.",
+      "3) Compute the total paid under Plan 1 as 12 × <E1>.",
+      "4) Compute the total paid under Plan 2 as 6 × 1200 + 6 × <E2>.",
+      "5) Compute the difference between the total paid under Plan 2 and Plan 1 as <ANS> - <E1> × 12."
+    ],
+    "response4": [
+      "1) Compute the remaining balance after 6 months under Plan 1 and determine the monthly payment <E1>.",
+      "2) Compute the remaining balance after 6 months under Plan 2 and determine the monthly payment <E2>.",
+      "3) Compute the total paid under Plan 1 as 12 × <E1>.",
+      "4) Compute the total paid under Plan 2 as 6 × 1200 + 6 × <E2>.",
+      "5) Compute the difference between the total paid under Plan 2 and Plan 1 as <ANS> - <E1> × 12."
+    ],
+    "response5": [
+      "1) Compute the remaining balance after 6 months under Plan 1 and determine the monthly payment <E1>.",
+      "2) Compute the remaining balance after 6 months under Plan 2 and determine the monthly payment <E2>.",
+      "3) Compute the total paid under Plan 1 as 12 × <E1> and record it as <ANS1>.",
+      "4) Compute the total paid under Plan 2 as 6 × 1200 + 6 × <E2> and record it as <ANS2>.",
+      "5) Compute the difference between <ANS2> and <ANS1> and record it as <D>.",
+      "6) Record the value of <D> as the answer."
+    ]
+  }
+}

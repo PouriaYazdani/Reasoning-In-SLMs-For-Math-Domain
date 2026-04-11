@@ -1,0 +1,40 @@
+{
+  "A retailer sells $3$ products: A, B, and C. In a given week, the store receives $120$ units of A, $90$ units of B, and $60$ units of C. Customer demand that week is random: the number of requested units for A, B, C are independent and distributed as $D_A\\sim\text{Poisson}(110)$, $D_B\\sim\text{Poisson}(95)$, and $D_C\\sim\text{Poisson}(70)$. Any unmet demand is lost (no backorders). Unit profits are €$4.20$ for A, €$5.10$ for B, and €$7.80$ for C. At the end of the week, leftover inventory is salvaged at €$0.60$ per unit for A, €$0.80$ per unit for B, and €$1.20$ per unit for C. Additionally, if the total number of units sold across all products is at least $230$, the store earns a bonus of €$150$; otherwise there is no bonus. What is the expected total profit for the week?": {
+    "response1": [
+      "1) Compute the expected number of units sold for A, B, and C: <E1>, <E2>, <E3>.",
+      "2) Compute the expected profit from sales for A, B, and C: <E4>, <E5>, <E6>.",
+      "3) Compute the expected salvage value from leftover inventory for A, B, and C: <E7>, <E8>, <E9>.",
+      "4) Compute the expected bonus: <E10>.",
+      "5) Compute the expected total profit: <ANS> = <E4> + <E5> + <E6> + <E7> + <E8> + <E9> + <E10>."
+    ],
+    "response2": [
+      "1) Compute the expected number of units sold for A, B, and C: <E1>, <E2>, <E3>.",
+      "2) Compute the expected profit from selling A, B, and C: <E4>, <E5>, <E6>.",
+      "3) Compute the expected salvage value from leftover inventory for A, B, and C: <E7>, <E8>, <E9>.",
+      "4) Compute the expected bonus: <E10>.",
+      "5) Compute the expected total profit: <ANS> = <E4> + <E5> + <E6> - <E7> - <E8> - <E9> + <E10>."
+    ],
+    "response3": [
+      "1) Identify the expected number of units sold for each product: <E1>, <E2>, <E3>.",
+      "2) Compute the expected profit for each product: <P1>, <P2>, <P3>.",
+      "3) Compute the expected salvage value for each product: <S1>, <S2>, <S3>.",
+      "4) Compute the expected bonus: <B>.",
+      "5) Compute the total expected profit: <ANS> = <P1> + <P2> + <P3> + <B>."
+    ],
+    "response4": [
+      "1) Identify the expected number of units sold for each product: <E1>, <E2>, <E3>.",
+      "2) Compute the expected profit for each product: <P1>, <P2>, <P3>.",
+      "3) Compute the expected total profit without the bonus: <T1>.",
+      "4) Determine if the total number of units sold is at least 230: <R1>.",
+      "5) Compute the bonus amount: <B1>.",
+      "6) Compute the expected total profit including the bonus: <ANS>."
+    ],
+    "response5": [
+      "1) Compute the expected number of units sold for A, B, and C: <E1>, <E2>, <E3>.",
+      "2) Compute the expected profit from units sold for A, B, and C: <E4>, <E5>, <E6>.",
+      "3) Compute the expected profit from leftover inventory for A, B, and C: <E7>, <E8>, <E9>.",
+      "4) Compute the expected bonus: <E10>.",
+      "5) Compute the total expected profit: <ANS> = <E4> + <E5> + <E6> + <E7> + <E8> + <E9> + <E10>."
+    ]
+  }
+}

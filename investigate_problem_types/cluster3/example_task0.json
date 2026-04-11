@@ -1,0 +1,38 @@
+{
+  "In triangle $ABC$, the side lengths are $AB = 13$, $BC = 14$, and $CA = 15$. Point $D$ lies on segment $BC$ such that $BD = 6$. Let the circumcircle of triangle $ABD$ intersect segment $AC$ again at a point $E \\ne A$. Find the length $AE$.": {
+    "response1": [
+      "1) Identify the given side lengths and point positions: AB = 13, BC = 14, CA = 15, BD = 6.",
+      "2) Determine the coordinates or positions of points A, B, C, D, and E using geometric relationships.",
+      "3) Use power of a point or cyclic quadrilateral properties to relate the lengths involving point E.",
+      "4) Compute the required length AE using the relationships established."
+    ],
+    "response2": [
+      "1) Identify the given side lengths and segment lengths: AB = 13, BC = 14, CA = 15, BD = 6.",
+      "2) Determine the length of DC using BC = 14 and BD = 6: DC = 14 - 6 = 8.",
+      "3) Use power of a point to find the relationship between AE and EC: AE * AC = BD * DC.",
+      "4) Substitute known values into the equation: AE * 15 = 6 * 8.",
+      "5) Solve for AE: AE = (6 * 8) / 15."
+    ],
+    "response3": [
+      "1) Identify the given side lengths: AB = 13, BC = 14, CA = 15, BD = 6.",
+      "2) Determine the coordinates of points B, C, and A using the given lengths.",
+      "3) Find the equation of the circumcircle of triangle ABD.",
+      "4) Find the intersection point E of the circumcircle with segment AC.",
+      "5) Compute the length AE using the coordinates of A and E."
+    ],
+    "response4": [
+      "1) Identify the given side lengths: AB = 13, BC = 14, CA = 15, BD = 6.",
+      "2) Determine the length DC using BC = 14 and BD = 6: DC = 14 - 6 = 8.",
+      "3) Use power of a point to find the length AE such that AE * AC = AD * AE.",
+      "4) Compute AD using the Pythagorean theorem in triangle ABD: AD = √(AB² + BD²) = √(13² + 6²).",
+      "5) Substitute values into the power of a point formula and solve for AE."
+    ],
+    "response5": [
+      "1) Identify the given lengths: AB = 13, BC = 14, CA = 15, BD = 6.",
+      "2) Determine the length DC using BC = 14 and BD = 6: DC = 14 - 6 = 8.",
+      "3) Use power of a point to find the length AE such that AE * AC = AD * AE.",
+      "4) Compute AD using the Pythagorean theorem in triangle ABD: AD = sqrt(AB² + BD²) = sqrt(13² + 6²).",
+      "5) Substitute values into the power of a point formula and solve for AE."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "A sequence $(a_n)$ of real numbers satisfies the following rule: for every integer $n \\ge 1$, either $a_{n+1} = 2a_n - 1$ or $a_{n+1} = 2a_n + 1$, and the choice at each step is made so that among the three numbers $a_n, a_{n+1}, a_{n+2}$ exactly one is an integer. If $a_1 = \\tfrac{1}{3}$, determine whether $a_{100}$ must be rational, must be irrational, or can be either depending on the choices.": {
+    "response1": [
+      "1) Define the sequence with the given recurrence relation and initial value.",
+      "2) Analyze the recurrence relation to determine the nature of the sequence.",
+      "3) Determine the conditions under which $a_{100}$ is rational or irrational.",
+      "4) Conclude based on the analysis of the sequence's properties."
+    ],
+    "response2": [
+      "1) Define the sequence with the given recurrence relation and initial condition.",
+      "2) Analyze the properties of the sequence based on the allowed operations.",
+      "3) Determine whether the sequence can produce rational or irrational values at position 100."
+    ],
+    "response3": [
+      "1) Define the sequence with the given recurrence relation and initial condition.",
+      "2) Analyze the properties of the sequence based on the allowed operations.",
+      "3) Determine the nature of $a_{100}$ based on the sequence's construction and the given conditions."
+    ],
+    "response4": [
+      "1) Identify the recurrence relation and the possible choices for $a_{n+1}$.",
+      "2) Determine the conditions under which $a_{n+2}$ is an integer.",
+      "3) Analyze the behavior of the sequence based on the choices made at each step.",
+      "4) Investigate whether $a_{100}$ must be rational or irrational based on the constraints."
+    ],
+    "response5": [
+      "1) Define the sequence with the given recurrence relation and the condition that exactly one of $a_n, a_{n+1}, a_{n+2}$ is an integer.",
+      "2) Analyze the properties of the sequence based on the choices made at each step.",
+      "3) Determine whether $a_{100}$ must be rational, must be irrational, or can be either depending on the choices."
+    ]
+  }
+}

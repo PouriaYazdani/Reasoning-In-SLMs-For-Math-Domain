@@ -1,0 +1,99 @@
+[f36_01] Two lines ℓ1: y=-2.45x-15.31 and ℓ2: y=0.53x+8.06 intersect at P. A circle centered at P with radius 4.543 intersects the x-axis at points A and B. If |AB|<6.63, the radius is replaced by 4.631; otherwise the circle is translated by vector (-3.76,-4.48). Compute the final area of the circle segment above the x-axis.
+
+[f36_02] Two lines ℓ1: y=-3.27x-16.4 and ℓ2: y=3.83x+20.59 intersect at P. A circle centered at P with radius 4.415 intersects the x-axis at points A and B. If |AB|<8.34, the radius is replaced by 2.347; otherwise the circle is translated by vector (0.04,-3.57). Compute the final area of the circle segment above the x-axis.
+
+[f36_03] Two lines ℓ1: y=-2.57x-15.13 and ℓ2: y=-3.2x-20.13 intersect at P. A circle centered at P with radius 11.634 intersects the x-axis at points A and B. If |AB|<19.43, the radius is replaced by 6.997; otherwise the circle is translated by vector (3.86,-3.5). Compute the final area of the circle segment above the x-axis.
+
+[f36_04] Two lines ℓ1: y=2.46x+11.13 and ℓ2: y=-2.14x-8.56 intersect at P. A circle centered at P with radius 6.147 intersects the x-axis at points A and B. If |AB|<11.19, the radius is replaced by 4.105; otherwise the circle is translated by vector (-2.84,2.96). Compute the final area of the circle segment above the x-axis.
+
+[f36_05] Two lines ℓ1: y=-3.67x-17.4 and ℓ2: y=-2.69x-12.47 intersect at P. A circle centered at P with radius 5.651 intersects the x-axis at points A and B. If |AB|<10.7, the radius is replaced by 4.995; otherwise the circle is translated by vector (3.32,-4.84). Compute the final area of the circle segment above the x-axis.
+
+[f36_06] Two lines ℓ1: y=1.69x-5.18 and ℓ2: y=-3.37x-2.0 intersect at P. A circle centered at P with radius 4.804 intersects the x-axis at points A and B. If |AB|<5.38, the radius is replaced by 8.099; otherwise the circle is translated by vector (4.21,6.75). Compute the final area of the circle segment above the x-axis.
+
+[f36_07] Two lines ℓ1: y=-3.51x-5.3 and ℓ2: y=1.01x+4.28 intersect at P. A circle centered at P with radius 7.946 intersects the x-axis at points A and B. If |AB|<12.61, the radius is replaced by 3.51; otherwise the circle is translated by vector (1.1,-3.36). Compute the final area of the circle segment above the x-axis.
+
+[f36_08] Two lines ℓ1: y=-3.36x-12.8 and ℓ2: y=-2.68x-9.55 intersect at P. A circle centered at P with radius 8.723 intersects the x-axis at points A and B. If |AB|<13.88, the radius is replaced by 7.102; otherwise the circle is translated by vector (-2.69,-8.93). Compute the final area of the circle segment above the x-axis.
+
+[f36_09] Two lines ℓ1: y=-0.03x+0.62 and ℓ2: y=-2.52x+2.09 intersect at P. A circle centered at P with radius 0.755 intersects the x-axis at points A and B. If |AB|<1.13, the radius is replaced by 3.069; otherwise the circle is translated by vector (2.98,-1.01). Compute the final area of the circle segment above the x-axis.
+
+[f36_10] Two lines ℓ1: y=-2.05x+0.42 and ℓ2: y=3.03x+8.04 intersect at P. A circle centered at P with radius 10.264 intersects the x-axis at points A and B. If |AB|<16.31, the radius is replaced by 3.696; otherwise the circle is translated by vector (-1.7,-5.6). Compute the final area of the circle segment above the x-axis.
+
+[f37_01] A triangle has sides a,b,c with a:b = 7:8 and perimeter 378. Its area is 5459.96. If the altitude to side a is less than 98.524, the triangle is scaled uniformly by factor 1.596. Find the final side lengths and the final inradius.
+
+[f37_02] A triangle has sides a,b,c with a:b = 5:7 and perimeter 181. Its area is 1488.812. If the altitude to side a is less than 85.279, the triangle is scaled uniformly by factor 1.342. Find the final side lengths and the final inradius.
+
+[f37_03] A triangle has sides a,b,c with a:b = 3:4 and perimeter 195. Its area is 1283.937. If the altitude to side a is less than 47.007, the triangle is scaled uniformly by factor 1.712. Find the final side lengths and the final inradius.
+
+[f37_04] A triangle has sides a,b,c with a:b = 5:2 and perimeter 202. Its area is 863.588. If the altitude to side a is less than 31.965, the triangle is scaled uniformly by factor 1.789. Find the final side lengths and the final inradius.
+
+[f37_05] A triangle has sides a,b,c with a:b = 2:3 and perimeter 147. Its area is 369.706. If the altitude to side a is less than 17.682, the triangle is scaled uniformly by factor 1.142. Find the final side lengths and the final inradius.
+
+[f37_06] A triangle has sides a,b,c with a:b = 7:4 and perimeter 244. Its area is 1954.748. If the altitude to side a is less than 20.996, the triangle is scaled uniformly by factor 1.417. Find the final side lengths and the final inradius.
+
+[f37_07] A triangle has sides a,b,c with a:b = 5:2 and perimeter 149. Its area is 719.896. If the altitude to side a is less than 9.914, the triangle is scaled uniformly by factor 1.514. Find the final side lengths and the final inradius.
+
+[f37_08] A triangle has sides a,b,c with a:b = 8:3 and perimeter 288. Its area is 2660.43. If the altitude to side a is less than 51.283, the triangle is scaled uniformly by factor 1.519. Find the final side lengths and the final inradius.
+
+[f37_09] A triangle has sides a,b,c with a:b = 7:4 and perimeter 229. Its area is 942.879. If the altitude to side a is less than 11.378, the triangle is scaled uniformly by factor 1.542. Find the final side lengths and the final inradius.
+
+[f37_10] A triangle has sides a,b,c with a:b = 5:3 and perimeter 96. Its area is 269.399. If the altitude to side a is less than 5.552, the triangle is scaled uniformly by factor 1.468. Find the final side lengths and the final inradius.
+
+[f38_01] In a circle of radius 10.023, two chords have lengths 19.984 and 20.035 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 0.788. If P lies within 1.101 of the center, chord 2 is rotated to make its distance from center 0.333; otherwise chord 1 is shortened by 7.978. Compute the final intersection power PA·PB for chord 1.
+
+[f38_02] In a circle of radius 26.662, two chords have lengths 53.269 and 45.504 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 1.216. If P lies within 3.275 of the center, chord 2 is rotated to make its distance from center 13.9; otherwise chord 1 is shortened by 2.221. Compute the final intersection power PA·PB for chord 1.
+
+[f38_03] In a circle of radius 8.96, two chords have lengths 16.429 and 11.1 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 3.578. If P lies within 3.118 of the center, chord 2 is rotated to make its distance from center 7.034; otherwise chord 1 is shortened by 0.876. Compute the final intersection power PA·PB for chord 1.
+
+[f38_04] In a circle of radius 17.605, two chords have lengths 33.37 and 35.205 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 5.617. If P lies within 7.635 of the center, chord 2 is rotated to make its distance from center 0.29; otherwise chord 1 is shortened by 4.256. Compute the final intersection power PA·PB for chord 1.
+
+[f38_05] In a circle of radius 13.134, two chords have lengths 15.673 and 23.913 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 10.54. If P lies within 4.625 of the center, chord 2 is rotated to make its distance from center 5.435; otherwise chord 1 is shortened by 3.213. Compute the final intersection power PA·PB for chord 1.
+
+[f38_06] In a circle of radius 5.684, two chords have lengths 11.288 and 9.904 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 0.673. If P lies within 1.299 of the center, chord 2 is rotated to make its distance from center 2.79; otherwise chord 1 is shortened by 3.1. Compute the final intersection power PA·PB for chord 1.
+
+[f38_07] In a circle of radius 15.941, two chords have lengths 31.842 and 30.691 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 0.798. If P lies within 2.629 of the center, chord 2 is rotated to make its distance from center 4.317; otherwise chord 1 is shortened by 3.162. Compute the final intersection power PA·PB for chord 1.
+
+[f38_08] In a circle of radius 19.256, two chords have lengths 36.497 and 32.054 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 6.147. If P lies within 4.47 of the center, chord 2 is rotated to make its distance from center 10.674; otherwise chord 1 is shortened by 0.459. Compute the final intersection power PA·PB for chord 1.
+
+[f38_09] In a circle of radius 25.875, two chords have lengths 51.559 and 46.887 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 2.22. If P lies within 6.351 of the center, chord 2 is rotated to make its distance from center 10.951; otherwise chord 1 is shortened by 3.502. Compute the final intersection power PA·PB for chord 1.
+
+[f38_10] In a circle of radius 13.238, two chords have lengths 21.891 and 23.069 and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is 7.446. If P lies within 4.781 of the center, chord 2 is rotated to make its distance from center 6.496; otherwise chord 1 is shortened by 7.994. Compute the final intersection power PA·PB for chord 1.
+
+[f39_01] A cylindrical tank of radius 0.578 is initially empty and is filled with water. For the first 38 minutes, inflow is 64.41 L/min; for the next 30 minutes it is 18.2 L/min. Outflow is 0.36 L/min throughout. If the water height exceeds 1.884, a sloshing loss of 5.7% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_02] A cylindrical tank of radius 0.257 is initially empty and is filled with water. For the first 14 minutes, inflow is 50.74 L/min; for the next 28 minutes it is 74.66 L/min. Outflow is 6.63 L/min throughout. If the water height exceeds 0.69, a sloshing loss of 15.24% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_03] A cylindrical tank of radius 0.917 is initially empty and is filled with water. For the first 34 minutes, inflow is 78.97 L/min; for the next 32 minutes it is 75.96 L/min. Outflow is 7.99 L/min throughout. If the water height exceeds 1.09, a sloshing loss of 7.3% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_04] A cylindrical tank of radius 0.644 is initially empty and is filled with water. For the first 18 minutes, inflow is 21.98 L/min; for the next 13 minutes it is 26.75 L/min. Outflow is 1.28 L/min throughout. If the water height exceeds 0.496, a sloshing loss of 9.97% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_05] A cylindrical tank of radius 1.176 is initially empty and is filled with water. For the first 32 minutes, inflow is 13.12 L/min; for the next 40 minutes it is 66.78 L/min. Outflow is 0.24 L/min throughout. If the water height exceeds 0.531, a sloshing loss of 8.21% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_06] A cylindrical tank of radius 0.344 is initially empty and is filled with water. For the first 14 minutes, inflow is 15.03 L/min; for the next 10 minutes it is 68.8 L/min. Outflow is 1.85 L/min throughout. If the water height exceeds 1.03, a sloshing loss of 17.32% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_07] A cylindrical tank of radius 0.344 is initially empty and is filled with water. For the first 36 minutes, inflow is 17.63 L/min; for the next 28 minutes it is 13.08 L/min. Outflow is 2.53 L/min throughout. If the water height exceeds 1.944, a sloshing loss of 1.77% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_08] A cylindrical tank of radius 0.337 is initially empty and is filled with water. For the first 22 minutes, inflow is 20.92 L/min; for the next 40 minutes it is 29.6 L/min. Outflow is 9.35 L/min throughout. If the water height exceeds 1.716, a sloshing loss of 11.77% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_09] A cylindrical tank of radius 0.485 is initially empty and is filled with water. For the first 23 minutes, inflow is 10.9 L/min; for the next 31 minutes it is 49.16 L/min. Outflow is 4.17 L/min throughout. If the water height exceeds 0.962, a sloshing loss of 7.63% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f39_10] A cylindrical tank of radius 0.265 is initially empty and is filled with water. For the first 34 minutes, inflow is 42.31 L/min; for the next 11 minutes it is 45.89 L/min. Outflow is 27.09 L/min throughout. If the water height exceeds 2.067, a sloshing loss of 9.81% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume.
+
+[f40_01] A quadrilateral has vertices A(-2.49,-2.81), B(-1.87,-1.48), C(-7.4,-6.24), D(2.06,-6.82). If its area (shoelace) exceeds 18.258, shift vertex C by vector (0.19,-0.94); otherwise reflect vertex D across line y=-1.77. Compute the final perimeter and area.
+
+[f40_02] A quadrilateral has vertices A(5.88,1.8), B(2.13,5.76), C(-0.53,-1.75), D(2.03,-6.89). If its area (shoelace) exceeds 37.854, shift vertex C by vector (0.76,0.13); otherwise reflect vertex D across line y=1.92. Compute the final perimeter and area.
+
+[f40_03] A quadrilateral has vertices A(-7.98,4.62), B(-8.83,1.13), C(-4.34,0.39), D(-0.34,2.6). If its area (shoelace) exceeds 19.265, shift vertex C by vector (1.27,1.8); otherwise reflect vertex D across line y=-4.03. Compute the final perimeter and area.
+
+[f40_04] A quadrilateral has vertices A(-6.4,3.86), B(-2.83,-0.52), C(-1.16,-3.09), D(3.57,0.81). If its area (shoelace) exceeds 24.656, shift vertex C by vector (-1.9,0.71); otherwise reflect vertex D across line y=4.93. Compute the final perimeter and area.
+
+[f40_05] A quadrilateral has vertices A(2.37,-1.82), B(3.61,-0.32), C(7.81,0.78), D(10.08,0.82). If its area (shoelace) exceeds 6.683, shift vertex C by vector (-1.61,-1.46); otherwise reflect vertex D across line y=0.29. Compute the final perimeter and area.
+
+[f40_06] A quadrilateral has vertices A(0.26,1.54), B(-1.49,-0.15), C(-0.24,-5.12), D(6.28,-2.37). If its area (shoelace) exceeds 25.549, shift vertex C by vector (0.57,0.22); otherwise reflect vertex D across line y=-3.88. Compute the final perimeter and area.
+
+[f40_07] A quadrilateral has vertices A(1.73,2.65), B(-0.88,-2.47), C(1.83,-3.6), D(5.72,-6.6). If its area (shoelace) exceeds 22.964, shift vertex C by vector (1.46,1.2); otherwise reflect vertex D across line y=-5.45. Compute the final perimeter and area.
+
+[f40_08] A quadrilateral has vertices A(0.65,0.91), B(-4.43,5.63), C(-9.43,-4.48), D(-5.82,-5.44). If its area (shoelace) exceeds 52.724, shift vertex C by vector (1.57,0.07); otherwise reflect vertex D across line y=-4.9. Compute the final perimeter and area.
+
+[f40_09] A quadrilateral has vertices A(-6.31,2.62), B(-8.08,-4.4), C(-3.1,-4.63), D(-1.39,-6.56). If its area (shoelace) exceeds 21.713, shift vertex C by vector (1.55,1.47); otherwise reflect vertex D across line y=-6.8. Compute the final perimeter and area.
+
+[f40_10] A quadrilateral has vertices A(0.46,9.94), B(-6.78,4.78), C(-0.57,2.15), D(3.24,2.0). If its area (shoelace) exceeds 42.77, shift vertex C by vector (0.92,1.94); otherwise reflect vertex D across line y=3.28. Compute the final perimeter and area.

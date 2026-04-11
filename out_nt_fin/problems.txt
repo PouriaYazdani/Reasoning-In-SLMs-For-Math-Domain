@@ -1,0 +1,199 @@
+[f41_01] Find the smallest positive integer n such that n ≡ 27 (mod 31), n ≡ 2 (mod 5), and n ≡ 6 (mod 24). Additionally, if the digit sum of n is at least 7, report n+11; otherwise report n-11.
+
+[f41_02] Find the smallest positive integer n such that n ≡ 18 (mod 28), n ≡ 32 (mod 45), and n ≡ 5 (mod 31). Additionally, if the digit sum of n is at least 1, report n+13; otherwise report n-13.
+
+[f41_03] Find the smallest positive integer n such that n ≡ 22 (mod 26), n ≡ 23 (mod 25), and n ≡ 26 (mod 37). Additionally, if the digit sum of n is at least 18, report n+50; otherwise report n-50.
+
+[f41_04] Find the smallest positive integer n such that n ≡ 41 (mod 42), n ≡ 13 (mod 23), and n ≡ 1 (mod 11). Additionally, if the digit sum of n is at least 27, report n+12; otherwise report n-12.
+
+[f41_05] Find the smallest positive integer n such that n ≡ 22 (mod 29), n ≡ 10 (mod 19), and n ≡ 2 (mod 43). Additionally, if the digit sum of n is at least 28, report n+14; otherwise report n-14.
+
+[f41_06] Find the smallest positive integer n such that n ≡ 2 (mod 40), n ≡ 5 (mod 21), and n ≡ 4 (mod 13). Additionally, if the digit sum of n is at least 15, report n+10; otherwise report n-10.
+
+[f41_07] Find the smallest positive integer n such that n ≡ 5 (mod 19), n ≡ 12 (mod 27), and n ≡ 10 (mod 26). Additionally, if the digit sum of n is at least 22, report n+46; otherwise report n-46.
+
+[f41_08] Find the smallest positive integer n such that n ≡ 11 (mod 33), n ≡ 0 (mod 10), and n ≡ 24 (mod 29). Additionally, if the digit sum of n is at least 18, report n+44; otherwise report n-44.
+
+[f41_09] Find the smallest positive integer n such that n ≡ 3 (mod 37), n ≡ 0 (mod 12), and n ≡ 31 (mod 35). Additionally, if the digit sum of n is at least 28, report n+36; otherwise report n-36.
+
+[f41_10] Find the smallest positive integer n such that n ≡ 10 (mod 17), n ≡ 7 (mod 28), and n ≡ 3 (mod 15). Additionally, if the digit sum of n is at least 17, report n+10; otherwise report n-10.
+
+[f42_01] Positive integers x and y satisfy gcd(x,y)=17 and lcm(x,y)=8840. Assume x>y. You are told that x is even, and additionally x+y=901. Find (x,y).
+
+[f42_02] Positive integers x and y satisfy gcd(x,y)=22 and lcm(x,y)=9548. Assume x>y. You are told that x is even, and additionally x+y=990. Find (x,y).
+
+[f42_03] Positive integers x and y satisfy gcd(x,y)=19 and lcm(x,y)=3230. Assume x>y. You are told that x is even, and additionally x+y=741. Find (x,y).
+
+[f42_04] Positive integers x and y satisfy gcd(x,y)=23 and lcm(x,y)=15525. Assume x>y. You are told that x is odd, and additionally x−y=46. Find (x,y).
+
+[f42_05] Positive integers x and y satisfy gcd(x,y)=23 and lcm(x,y)=483. Assume x>y. You are told that x is odd, and additionally x−y=92. Find (x,y).
+
+[f42_06] Positive integers x and y satisfy gcd(x,y)=9 and lcm(x,y)=6003. Assume x>y. You are told that x is odd, and additionally x−y=54. Find (x,y).
+
+[f42_07] Positive integers x and y satisfy gcd(x,y)=6 and lcm(x,y)=1836. Assume x>y. You are told that x is even, and additionally x+y=258. Find (x,y).
+
+[f42_08] Positive integers x and y satisfy gcd(x,y)=12 and lcm(x,y)=7128. Assume x>y. You are told that x is even, and additionally x+y=588. Find (x,y).
+
+[f42_09] Positive integers x and y satisfy gcd(x,y)=9 and lcm(x,y)=2376. Assume x>y. You are told that x is odd, and additionally x−y=225. Find (x,y).
+
+[f42_10] Positive integers x and y satisfy gcd(x,y)=18 and lcm(x,y)=7722. Assume x>y. You are told that x is even, and additionally x+y=900. Find (x,y).
+
+[f43_01] How many integers n in the interval [257,1234] are divisible by 38 but not divisible by any of 8, 9, 33, and also satisfy n ≡ 4 (mod 5)? If the count exceeds 4, subtract 3; otherwise add 3.
+
+[f43_02] How many integers n in the interval [69,2194] are divisible by 5 but not divisible by any of 8, 31, 35, and also satisfy n ≡ 6 (mod 21)? If the count exceeds 18, subtract 8; otherwise add 8.
+
+[f43_03] How many integers n in the interval [1113,1807] are divisible by 32 but not divisible by any of 37, 38, 42, and also satisfy n ≡ 3 (mod 13)? If the count exceeds 1, subtract 3; otherwise add 3.
+
+[f43_04] How many integers n in the interval [1378,3077] are divisible by 31 but not divisible by any of 6, 9, 37, and also satisfy n ≡ 0 (mod 2)? If the count exceeds 14, subtract 5; otherwise add 5.
+
+[f43_05] How many integers n in the interval [1161,1843] are divisible by 15 but not divisible by any of 25, 30, 33, and also satisfy n ≡ 7 (mod 19)? If the count exceeds 5, subtract 7; otherwise add 7.
+
+[f43_06] How many integers n in the interval [1152,1862] are divisible by 30 but not divisible by any of 35, 36, 45, and also satisfy n ≡ 6 (mod 34)? If the count exceeds 2, subtract 4; otherwise add 4.
+
+[f43_07] How many integers n in the interval [819,2029] are divisible by 7 but not divisible by any of 9, 17, 22, and also satisfy n ≡ 14 (mod 28)? If the count exceeds 33, subtract 5; otherwise add 5.
+
+[f43_08] How many integers n in the interval [870,2229] are divisible by 9 but not divisible by any of 18, 26, 41, and also satisfy n ≡ 3 (mod 12)? If the count exceeds 38, subtract 3; otherwise add 3.
+
+[f43_09] How many integers n in the interval [1289,1500] are divisible by 35 but not divisible by any of 23, 32, 42, and also satisfy n ≡ 0 (mod 19)? If the count exceeds 1, subtract 5; otherwise add 5.
+
+[f43_10] How many integers n in the interval [58,1747] are divisible by 27 but not divisible by any of 16, 18, 37, and also satisfy n ≡ 6 (mod 25)? If the count exceeds 0, subtract 4; otherwise add 4.
+
+[f44_01] A number N has a base-2 representation with exactly 5 digits, digit sum 14, and N is divisible by 29. If no such N exists in base 2, switch to base 5 while keeping the same L and S. Find the smallest valid N.
+
+[f44_02] A number N has a base-11 representation with exactly 6 digits, digit sum 18, and N is divisible by 19. If no such N exists in base 11, switch to base 10 while keeping the same L and S. Find the smallest valid N.
+
+[f44_03] A number N has a base-8 representation with exactly 4 digits, digit sum 5, and N is divisible by 47. If no such N exists in base 8, switch to base 2 while keeping the same L and S. Find the smallest valid N.
+
+[f44_04] A number N has a base-5 representation with exactly 6 digits, digit sum 26, and N is divisible by 2. If no such N exists in base 5, switch to base 11 while keeping the same L and S. Find the smallest valid N.
+
+[f44_05] A number N has a base-11 representation with exactly 5 digits, digit sum 19, and N is divisible by 52. If no such N exists in base 11, switch to base 6 while keeping the same L and S. Find the smallest valid N.
+
+[f44_06] A number N has a base-11 representation with exactly 3 digits, digit sum 12, and N is divisible by 30. If no such N exists in base 11, switch to base 9 while keeping the same L and S. Find the smallest valid N.
+
+[f44_07] A number N has a base-4 representation with exactly 3 digits, digit sum 3, and N is divisible by 20. If no such N exists in base 4, switch to base 12 while keeping the same L and S. Find the smallest valid N.
+
+[f44_08] A number N has a base-10 representation with exactly 4 digits, digit sum 10, and N is divisible by 46. If no such N exists in base 10, switch to base 5 while keeping the same L and S. Find the smallest valid N.
+
+[f44_09] A number N has a base-6 representation with exactly 4 digits, digit sum 12, and N is divisible by 36. If no such N exists in base 6, switch to base 5 while keeping the same L and S. Find the smallest valid N.
+
+[f44_10] A number N has a base-4 representation with exactly 5 digits, digit sum 19, and N is divisible by 32. If no such N exists in base 4, switch to base 6 while keeping the same L and S. Find the smallest valid N.
+
+[f45_01] Find integers (x,y) satisfying 7x+19y=-183, with bounds 3≤x≤25, -36≤y≤-8. If multiple solutions exist, choose the one minimizing 5|x|+3|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_02] Find integers (x,y) satisfying 6x+19y=379, with bounds 9≤x≤49, 0≤y≤27. If multiple solutions exist, choose the one minimizing 1|x|+6|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_03] Find integers (x,y) satisfying 24x+14y=58, with bounds -7≤x≤18, -21≤y≤12. If multiple solutions exist, choose the one minimizing 3|x|+8|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_04] Find integers (x,y) satisfying 27x+18y=-756, with bounds -40≤x≤9, -29≤y≤9. If multiple solutions exist, choose the one minimizing 2|x|+7|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_05] Find integers (x,y) satisfying 6x+26y=-472, with bounds 2≤x≤46, -31≤y≤-6. If multiple solutions exist, choose the one minimizing 5|x|+5|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_06] Find integers (x,y) satisfying 6x+18y=-150, with bounds -22≤x≤36, -21≤y≤14. If multiple solutions exist, choose the one minimizing 2|x|+7|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_07] Find integers (x,y) satisfying 6x+10y=-240, with bounds -36≤x≤5, -44≤y≤-1. If multiple solutions exist, choose the one minimizing 5|x|+4|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_08] Find integers (x,y) satisfying 13x+14y=-428, with bounds -20≤x≤21, -52≤y≤-1. If multiple solutions exist, choose the one minimizing 7|x|+8|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_09] Find integers (x,y) satisfying 9x+26y=461, with bounds -44≤x≤9, -5≤y≤47. If multiple solutions exist, choose the one minimizing 4|x|+3|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f45_10] Find integers (x,y) satisfying 6x+7y=-79, with bounds 8≤x≤25, -30≤y≤4. If multiple solutions exist, choose the one minimizing 1|x|+5|y|; if still tied, choose the one with larger x. Report the chosen (x,y).
+
+[f46_01] A loan has principal 86036 with APR 7.323% compounded monthly for the first 30 months, then APR becomes 4.05%. Monthly payment is 1363.3. Additionally, every 5 months you make an extra payment 974 unless the remaining balance is below 42913, in which case you refinance to APR 9.268% with one-time fee 1377 and new monthly payment 1504.33. Compute total interest paid and the payoff month.
+
+[f46_02] A loan has principal 70148 with APR 6.93% compounded monthly for the first 28 months, then APR becomes 5.162%. Monthly payment is 3062.39. Additionally, every 6 months you make an extra payment 849 unless the remaining balance is below 31128, in which case you refinance to APR 2.744% with one-time fee 4115 and new monthly payment 3712.57. Compute total interest paid and the payoff month.
+
+[f46_03] A loan has principal 76641 with APR 2.911% compounded monthly for the first 12 months, then APR becomes 6.037%. Monthly payment is 1022.55. Additionally, every 9 months you make an extra payment 1392 unless the remaining balance is below 25237, in which case you refinance to APR 6.692% with one-time fee 1693 and new monthly payment 967.3. Compute total interest paid and the payoff month.
+
+[f46_04] A loan has principal 43612 with APR 3.46% compounded monthly for the first 12 months, then APR becomes 8.722%. Monthly payment is 467.96. Additionally, every 6 months you make an extra payment 1539 unless the remaining balance is below 15213, in which case you refinance to APR 3.473% with one-time fee 3860 and new monthly payment 476.53. Compute total interest paid and the payoff month.
+
+[f46_05] A loan has principal 140775 with APR 7.364% compounded monthly for the first 8 months, then APR becomes 15.093%. Monthly payment is 2921.49. Additionally, every 4 months you make an extra payment 388 unless the remaining balance is below 55787, in which case you refinance to APR 11.471% with one-time fee 3791 and new monthly payment 2515.33. Compute total interest paid and the payoff month.
+
+[f46_06] A loan has principal 90652 with APR 12.014% compounded monthly for the first 40 months, then APR becomes 9.199%. Monthly payment is 1499.12. Additionally, every 10 months you make an extra payment 590 unless the remaining balance is below 4389, in which case you refinance to APR 3.385% with one-time fee 2236 and new monthly payment 1567.47. Compute total interest paid and the payoff month.
+
+[f46_07] A loan has principal 75475 with APR 8.526% compounded monthly for the first 36 months, then APR becomes 15.08%. Monthly payment is 1198.65. Additionally, every 8 months you make an extra payment 1179 unless the remaining balance is below 14246, in which case you refinance to APR 7.082% with one-time fee 1690 and new monthly payment 1181.26. Compute total interest paid and the payoff month.
+
+[f46_08] A loan has principal 118680 with APR 7.515% compounded monthly for the first 42 months, then APR becomes 17.374%. Monthly payment is 2164.39. Additionally, every 6 months you make an extra payment 924 unless the remaining balance is below 68981, in which case you refinance to APR 4.045% with one-time fee 3093 and new monthly payment 2237.4. Compute total interest paid and the payoff month.
+
+[f46_09] A loan has principal 142677 with APR 3.166% compounded monthly for the first 28 months, then APR becomes 3.368%. Monthly payment is 6347.36. Additionally, every 10 months you make an extra payment 1785 unless the remaining balance is below 4793, in which case you refinance to APR 8.496% with one-time fee 508 and new monthly payment 5758.73. Compute total interest paid and the payoff month.
+
+[f46_10] A loan has principal 5051 with APR 4.343% compounded monthly for the first 31 months, then APR becomes 3.388%. Monthly payment is 82.65. Additionally, every 11 months you make an extra payment 1374 unless the remaining balance is below 109, in which case you refinance to APR 10.639% with one-time fee 2801 and new monthly payment 97.8. Compute total interest paid and the payoff month.
+
+[f47_01] A salesperson sells 72 units in Phase 1 and 59 units in Phase 2. Unit price is 326.59 then 355.05. Commission is 1.03% but becomes 5.53% for units sold beyond quota 79 (counting units across both phases). Phase-2 returns are 14 units; if returns exceed 53 units, a clawback of 29.39% of Phase-1 commission applies. Taxes are 12.06% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_02] A salesperson sells 32 units in Phase 1 and 119 units in Phase 2. Unit price is 77.2 then 90.82. Commission is 2.76% but becomes 6.34% for units sold beyond quota 100 (counting units across both phases). Phase-2 returns are 102 units; if returns exceed 14 units, a clawback of 59.29% of Phase-1 commission applies. Taxes are 16.0% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_03] A salesperson sells 10 units in Phase 1 and 93 units in Phase 2. Unit price is 304.48 then 321.88. Commission is 8.24% but becomes 9.2% for units sold beyond quota 51 (counting units across both phases). Phase-2 returns are 90 units; if returns exceed 77 units, a clawback of 6.22% of Phase-1 commission applies. Taxes are 33.43% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_04] A salesperson sells 54 units in Phase 1 and 66 units in Phase 2. Unit price is 348.69 then 294.0. Commission is 5.94% but becomes 7.0% for units sold beyond quota 92 (counting units across both phases). Phase-2 returns are 11 units; if returns exceed 9 units, a clawback of 17.03% of Phase-1 commission applies. Taxes are 22.03% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_05] A salesperson sells 119 units in Phase 1 and 136 units in Phase 2. Unit price is 258.21 then 329.75. Commission is 11.15% but becomes 19.17% for units sold beyond quota 240 (counting units across both phases). Phase-2 returns are 105 units; if returns exceed 63 units, a clawback of 15.1% of Phase-1 commission applies. Taxes are 28.29% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_06] A salesperson sells 65 units in Phase 1 and 149 units in Phase 2. Unit price is 247.96 then 396.84. Commission is 1.1% but becomes 14.04% for units sold beyond quota 39 (counting units across both phases). Phase-2 returns are 47 units; if returns exceed 40 units, a clawback of 27.14% of Phase-1 commission applies. Taxes are 25.33% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_07] A salesperson sells 33 units in Phase 1 and 125 units in Phase 2. Unit price is 278.64 then 42.99. Commission is 4.95% but becomes 22.95% for units sold beyond quota 33 (counting units across both phases). Phase-2 returns are 72 units; if returns exceed 72 units, a clawback of 9.16% of Phase-1 commission applies. Taxes are 9.34% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_08] A salesperson sells 133 units in Phase 1 and 13 units in Phase 2. Unit price is 184.05 then 381.82. Commission is 6.78% but becomes 20.59% for units sold beyond quota 106 (counting units across both phases). Phase-2 returns are 4 units; if returns exceed 12 units, a clawback of 40.27% of Phase-1 commission applies. Taxes are 34.45% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_09] A salesperson sells 60 units in Phase 1 and 114 units in Phase 2. Unit price is 191.43 then 45.63. Commission is 7.02% but becomes 21.39% for units sold beyond quota 90 (counting units across both phases). Phase-2 returns are 86 units; if returns exceed 101 units, a clawback of 5.43% of Phase-1 commission applies. Taxes are 37.23% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f47_10] A salesperson sells 22 units in Phase 1 and 108 units in Phase 2. Unit price is 305.99 then 398.57. Commission is 8.89% but becomes 20.0% for units sold beyond quota 98 (counting units across both phases). Phase-2 returns are 11 units; if returns exceed 95 units, a clawback of 59.39% of Phase-1 commission applies. Taxes are 34.43% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback).
+
+[f48_01] A recipe uses 453 grams ingredient X, 41 mL ingredient Y, and 425 grams ingredient Z to produce 14 servings. When scaling to 31 servings, ingredient X experiences 22.19% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 29 mL (rounded up). If the pre-discount total cost exceeds 94.24, a discount 34.27% applies only to ingredient Z. Given unit costs cx=0.05 per gram, cy=0.006 per mL, cz=0.028 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_02] A recipe uses 136 grams ingredient X, 268 mL ingredient Y, and 184 grams ingredient Z to produce 2 servings. When scaling to 24 servings, ingredient X experiences 19.34% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 17 mL (rounded up). If the pre-discount total cost exceeds 501.78, a discount 26.86% applies only to ingredient Z. Given unit costs cx=0.116 per gram, cy=0.066 per mL, cz=0.024 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_03] A recipe uses 130 grams ingredient X, 505 mL ingredient Y, and 231 grams ingredient Z to produce 6 servings. When scaling to 24 servings, ingredient X experiences 12.83% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 18 mL (rounded up). If the pre-discount total cost exceeds 329.07, a discount 18.63% applies only to ingredient Z. Given unit costs cx=0.038 per gram, cy=0.082 per mL, cz=0.164 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_04] A recipe uses 464 grams ingredient X, 405 mL ingredient Y, and 558 grams ingredient Z to produce 6 servings. When scaling to 31 servings, ingredient X experiences 18.67% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 30 mL (rounded up). If the pre-discount total cost exceeds 924.44, a discount 18.46% applies only to ingredient Z. Given unit costs cx=0.147 per gram, cy=0.01 per mL, cz=0.169 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_05] A recipe uses 333 grams ingredient X, 556 mL ingredient Y, and 308 grams ingredient Z to produce 12 servings. When scaling to 17 servings, ingredient X experiences 13.62% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 47 mL (rounded up). If the pre-discount total cost exceeds 141.45, a discount 28.84% applies only to ingredient Z. Given unit costs cx=0.12 per gram, cy=0.065 per mL, cz=0.06 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_06] A recipe uses 467 grams ingredient X, 50 mL ingredient Y, and 552 grams ingredient Z to produce 10 servings. When scaling to 27 servings, ingredient X experiences 9.39% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 23 mL (rounded up). If the pre-discount total cost exceeds 281.47, a discount 8.89% applies only to ingredient Z. Given unit costs cx=0.145 per gram, cy=0.097 per mL, cz=0.056 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_07] A recipe uses 170 grams ingredient X, 398 mL ingredient Y, and 224 grams ingredient Z to produce 5 servings. When scaling to 19 servings, ingredient X experiences 15.44% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 27 mL (rounded up). If the pre-discount total cost exceeds 205.56, a discount 32.16% applies only to ingredient Z. Given unit costs cx=0.072 per gram, cy=0.064 per mL, cz=0.078 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_08] A recipe uses 77 grams ingredient X, 538 mL ingredient Y, and 526 grams ingredient Z to produce 3 servings. When scaling to 9 servings, ingredient X experiences 21.56% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 43 mL (rounded up). If the pre-discount total cost exceeds 269.16, a discount 10.12% applies only to ingredient Z. Given unit costs cx=0.128 per gram, cy=0.074 per mL, cz=0.066 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_09] A recipe uses 576 grams ingredient X, 219 mL ingredient Y, and 381 grams ingredient Z to produce 13 servings. When scaling to 36 servings, ingredient X experiences 15.77% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 25 mL (rounded up). If the pre-discount total cost exceeds 449.0, a discount 33.19% applies only to ingredient Z. Given unit costs cx=0.138 per gram, cy=0.009 per mL, cz=0.165 per gram, compute total cost and final amounts of each ingredient used.
+
+[f48_10] A recipe uses 523 grams ingredient X, 466 mL ingredient Y, and 291 grams ingredient Z to produce 9 servings. When scaling to 15 servings, ingredient X experiences 4.96% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of 10 mL (rounded up). If the pre-discount total cost exceeds 183.22, a discount 27.96% applies only to ingredient Z. Given unit costs cx=0.086 per gram, cy=0.09 per mL, cz=0.087 per gram, compute total cost and final amounts of each ingredient used.
+
+[f49_01] A package has actual weight 14.68 kg and dimensions 64×90×49 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 3.39 per kg up to 24.59 kg and 8.86 beyond, plus fuel surcharge 9.93%. Destination zone is EU. If destination is in {APAC,ME,LATAM,EU}, add flat 34.89 unless billable weight exceeds 63.98, in which case the flat fee is waived but the fuel surcharge increases by 8.76%. Compute total charge.
+
+[f49_02] A package has actual weight 13.25 kg and dimensions 52×13×23 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 1.79 per kg up to 11.94 kg and 4.14 beyond, plus fuel surcharge 10.53%. Destination zone is APAC. If destination is in {ME,LATAM,APAC}, add flat 19.85 unless billable weight exceeds 18.97, in which case the flat fee is waived but the fuel surcharge increases by 7.3%. Compute total charge.
+
+[f49_03] A package has actual weight 16.69 kg and dimensions 57×60×66 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 7.55 per kg up to 19.87 kg and 11.54 beyond, plus fuel surcharge 4.42%. Destination zone is LATAM. If destination is in {LATAM,EU,ME}, add flat 17.0 unless billable weight exceeds 40.61, in which case the flat fee is waived but the fuel surcharge increases by 19.35%. Compute total charge.
+
+[f49_04] A package has actual weight 22.24 kg and dimensions 22×14×38 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 3.82 per kg up to 16.72 kg and 4.12 beyond, plus fuel surcharge 6.58%. Destination zone is NA. If destination is in {EU,APAC,LATAM,NA}, add flat 20.29 unless billable weight exceeds 23.92, in which case the flat fee is waived but the fuel surcharge increases by 2.56%. Compute total charge.
+
+[f49_05] A package has actual weight 2.69 kg and dimensions 62×29×30 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 6.15 per kg up to 22.37 kg and 10.68 beyond, plus fuel surcharge 24.14%. Destination zone is APAC. If destination is in {APAC,NA,ME}, add flat 17.86 unless billable weight exceeds 16.88, in which case the flat fee is waived but the fuel surcharge increases by 19.07%. Compute total charge.
+
+[f49_06] A package has actual weight 26.52 kg and dimensions 114×65×38 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 5.34 per kg up to 20.7 kg and 8.72 beyond, plus fuel surcharge 22.93%. Destination zone is LATAM. If destination is in {LATAM,NA,APAC,ME}, add flat 17.44 unless billable weight exceeds 54.61, in which case the flat fee is waived but the fuel surcharge increases by 18.91%. Compute total charge.
+
+[f49_07] A package has actual weight 26.12 kg and dimensions 15×41×27 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 4.02 per kg up to 21.81 kg and 9.05 beyond, plus fuel surcharge 15.34%. Destination zone is NA. If destination is in {LATAM,NA}, add flat 13.16 unless billable weight exceeds 24.38, in which case the flat fee is waived but the fuel surcharge increases by 3.84%. Compute total charge.
+
+[f49_08] A package has actual weight 21.19 kg and dimensions 52×87×62 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 4.58 per kg up to 6.26 kg and 9.29 beyond, plus fuel surcharge 21.03%. Destination zone is LATAM. If destination is in {NA,LATAM,EU,ME}, add flat 3.11 unless billable weight exceeds 50.19, in which case the flat fee is waived but the fuel surcharge increases by 14.45%. Compute total charge.
+
+[f49_09] A package has actual weight 22.31 kg and dimensions 46×34×38 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 7.44 per kg up to 21.75 kg and 11.79 beyond, plus fuel surcharge 10.5%. Destination zone is APAC. If destination is in {NA,LATAM,ME,EU}, add flat 10.04 unless billable weight exceeds 25.43, in which case the flat fee is waived but the fuel surcharge increases by 4.66%. Compute total charge.
+
+[f49_10] A package has actual weight 21.13 kg and dimensions 35×55×68 cm. Volumetric weight is (L·W·H)/5000 kg, and billable weight is max(actual, volumetric). Rate is 7.36 per kg up to 19.75 kg and 10.52 beyond, plus fuel surcharge 19.63%. Destination zone is NA. If destination is in {APAC,ME}, add flat 33.12 unless billable weight exceeds 23.24, in which case the flat fee is waived but the fuel surcharge increases by 16.4%. Compute total charge.
+
+[f50_01] A factory produces 89 items per day for 31 days with defect rate 0.232. Defectives can be reworked at capacity 37 items/day with success probability 0.888; unreworked defectives are scrapped and failed reworks are scrapped. For the next 9 days, production increases to 101 but defect rate becomes 0.293 unless the cumulative scrap so far exceeds 60, in which case defect rate reduces to 0.281 due to extra inspection cost 2984 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_02] A factory produces 128 items per day for 28 days with defect rate 0.284. Defectives can be reworked at capacity 27 items/day with success probability 0.89; unreworked defectives are scrapped and failed reworks are scrapped. For the next 17 days, production increases to 168 but defect rate becomes 0.174 unless the cumulative scrap so far exceeds 306, in which case defect rate reduces to 0.087 due to extra inspection cost 4641 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_03] A factory produces 327 items per day for 9 days with defect rate 0.319. Defectives can be reworked at capacity 71 items/day with success probability 0.821; unreworked defectives are scrapped and failed reworks are scrapped. For the next 26 days, production increases to 444 but defect rate becomes 0.042 unless the cumulative scrap so far exceeds 277, in which case defect rate reduces to 0.024 due to extra inspection cost 2569 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_04] A factory produces 483 items per day for 26 days with defect rate 0.257. Defectives can be reworked at capacity 274 items/day with success probability 0.536; unreworked defectives are scrapped and failed reworks are scrapped. For the next 20 days, production increases to 809 but defect rate becomes 0.305 unless the cumulative scrap so far exceeds 1941, in which case defect rate reduces to 0.149 due to extra inspection cost 2319 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_05] A factory produces 125 items per day for 37 days with defect rate 0.244. Defectives can be reworked at capacity 27 items/day with success probability 0.413; unreworked defectives are scrapped and failed reworks are scrapped. For the next 13 days, production increases to 185 but defect rate becomes 0.263 unless the cumulative scrap so far exceeds 771, in which case defect rate reduces to 0.171 due to extra inspection cost 2255 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_06] A factory produces 518 items per day for 9 days with defect rate 0.204. Defectives can be reworked at capacity 280 items/day with success probability 0.757; unreworked defectives are scrapped and failed reworks are scrapped. For the next 38 days, production increases to 831 but defect rate becomes 0.328 unless the cumulative scrap so far exceeds 157, in which case defect rate reduces to 0.123 due to extra inspection cost 4875 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_07] A factory produces 367 items per day for 18 days with defect rate 0.197. Defectives can be reworked at capacity 291 items/day with success probability 0.529; unreworked defectives are scrapped and failed reworks are scrapped. For the next 11 days, production increases to 611 but defect rate becomes 0.189 unless the cumulative scrap so far exceeds 742, in which case defect rate reduces to 0.03 due to extra inspection cost 1030 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_08] A factory produces 775 items per day for 32 days with defect rate 0.108. Defectives can be reworked at capacity 367 items/day with success probability 0.524; unreworked defectives are scrapped and failed reworks are scrapped. For the next 17 days, production increases to 1401 but defect rate becomes 0.273 unless the cumulative scrap so far exceeds 1652, in which case defect rate reduces to 0.261 due to extra inspection cost 2797 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_09] A factory produces 361 items per day for 40 days with defect rate 0.23. Defectives can be reworked at capacity 130 items/day with success probability 0.767; unreworked defectives are scrapped and failed reworks are scrapped. For the next 23 days, production increases to 533 but defect rate becomes 0.078 unless the cumulative scrap so far exceeds 877, in which case defect rate reduces to 0.012 due to extra inspection cost 2268 per day. Find the expected number of sellable items and the expected total inspection cost.
+
+[f50_10] A factory produces 493 items per day for 36 days with defect rate 0.051. Defectives can be reworked at capacity 141 items/day with success probability 0.886; unreworked defectives are scrapped and failed reworks are scrapped. For the next 20 days, production increases to 746 but defect rate becomes 0.115 unless the cumulative scrap so far exceeds 109, in which case defect rate reduces to 0.107 due to extra inspection cost 559 per day. Find the expected number of sellable items and the expected total inspection cost.

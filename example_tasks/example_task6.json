@@ -1,0 +1,42 @@
+{
+  "Let $triangle ABC$ be acute with circumradius $R$, inradius $r$, circumcenter $O$, incenter $I$, and $a=BC$, $b=CA$, $c=AB$. Let the tangents to the circumcircle at $B$ and $C$ meet at $T$. Prove that $T I\\perp A I$ and that $\\dfrac{A I}{I T}=\\dfrac{b c}{(b+c-a)\\,2R}$ expressed purely in terms of $a$, $b$, $c$, and $R$. Then, using only triangle identities and standard power/area relations, deduce the formula $(O I)^{2}=R\\,(R-2 r)$ as a corollary.": {
+    "response1": [
+      "1) Identify the key geometric properties and relationships in triangle $ABC$.",
+      "2) Use the given conditions to establish the relationship between $T$, $I$, and $A$.",
+      "3) Apply standard triangle identities and power/area relations to derive the required formula.",
+      "4) Use the given formula $\\dfrac{A I}{I T}=\\dfrac{b c}{(b+c-a)\\,2R}$ to prove the desired result.",
+      "5) Deduce the formula $(O I)^{2}=R\\,(R-2 r)$ as a corollary."
+    ],
+    "response2": [
+      "1) Identify the key geometric elements: circumcircle, tangents at B and C, point T, and lines AI and IT.",
+      "2) Use properties of tangents to the circumcircle and power of a point to relate T to the circumcircle.",
+      "3) Apply known relations between triangle centers (incenter, circumcenter, and Euler line) to establish the perpendicularity condition.",
+      "4) Use standard triangle identities and area relations to derive the given ratio.",
+      "5) Use the derived ratio to prove the formula $(O I)^{2}=R\\,(R-2 r)$ as a corollary."
+    ],
+    "response3": [
+      "1) Identify the key geometric elements: triangle ABC, circumradius R, inradius r, circumcenter O, incenter I, and tangents at B and C.",
+      "2) Determine the properties of the tangents to the circumcircle at B and C: they meet at point T and are perpendicular to the radii OB and OC.",
+      "3) Use the fact that T is the exsimilicenter of the circumcircle and the incenter I to establish the perpendicularity of TI and AI.",
+      "4) Apply the power of point T with respect to the circumcircle to relate the lengths of tangents and secants.",
+      "5) Use the standard area relations and triangle identities to express the ratio $\\dfrac{A I}{I T}$ in terms of a, b, c, and R.",
+      "6) Deduce the formula $(O I)^{2}=R\\,(R-2 r)$ as a corollary using the derived ratio and known geometric relations."
+    ],
+    "response4": [
+      "1) Identify the geometric configuration and note the key elements: triangle $ABC$, circumradius $R$, inradius $r$, circumcenter $O$, incenter $I$, and tangents at $B$ and $C$ meeting at $T$.",
+      "2) Use the property of tangents to the circumcircle: the tangents at $B$ and $C$ intersect at $T$, and $TB = TC$.",
+      "3) Recognize that $T$ lies on the symmedian line of triangle $ABC$ and use properties of symmedians to relate $T$ to $I$.",
+      "4) Use vector or coordinate geometry to express the position of $I$ and compute the vector $TI$.",
+      "5) Compute the vector $AI$ and use the dot product to show that $TI \\perp AI$.",
+      "6) Use trigonometric identities and properties of the inradius $r$ to express $AI$ and $IT$ in terms of $a$, $b$, $c$, and $R$.",
+      "7) Use the formula for the distance between the circumcenter and incenter: $(OI)^2 = R(R - 2r)$, derived from the given expression."
+    ],
+    "response5": [
+      "1) Identify the key geometric elements: circumcircle, incenter, tangents, and orthocenter.",
+      "2) Use properties of tangents to the circumcircle and their relation to the circumcenter.",
+      "3) Apply vector or coordinate geometry to express the positions of points $T$, $I$, and $A$.",
+      "4) Use vector or coordinate relations to prove that $T I \\perp A I$.",
+      "5) Use standard triangle identities and power/area relations to derive the formula for $O I^2$ in terms of $R$ and $r$."
+    ]
+  }
+}

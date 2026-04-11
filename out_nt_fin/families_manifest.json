@@ -1,0 +1,52 @@
+[
+  {
+    "family_id": "f41",
+    "title": "CRT with range constraint and digit-sum branch",
+    "template": "Find the smallest positive integer n such that n ≡ {a1} (mod {m1}), n ≡ {a2} (mod {m2}), and n ≡ {a3} (mod {m3}). Additionally, if the digit sum of n is at least {S}, report n+{k}; otherwise report n-{k}."
+  },
+  {
+    "family_id": "f42",
+    "title": "GCD/LCM with branch-specific linear constraint and parity condition",
+    "template": "Positive integers x and y satisfy gcd(x,y)={g} and lcm(x,y)={L}. Assume x>y. You are told that x is {parity_case}, and additionally {extra_constraint}. Find (x,y)."
+  },
+  {
+    "family_id": "f43",
+    "title": "Counting integers under multiple modular exclusions with endpoint adjustment",
+    "template": "How many integers n in the interval [{A},{B}] are divisible by {m} but not divisible by any of {d1}, {d2}, {d3}, and also satisfy n ≡ {r} (mod {k})? If the count exceeds {T}, subtract {s}; otherwise add {s}."
+  },
+  {
+    "family_id": "f44",
+    "title": "Base representation with digit constraints and conditional base switch",
+    "template": "A number N has a base-{b} representation with exactly {L} digits, digit sum {S}, and N is divisible by {m}. If no such N exists in base {b}, switch to base {b2} while keeping the same L and S. Find the smallest valid N."
+  },
+  {
+    "family_id": "f45",
+    "title": "Diophantine with bounded solutions and tie-breaker rule",
+    "template": "Find integers (x,y) satisfying {Acoef}x+{Bcoef}y={Ccoef}, with bounds {xmin}≤x≤{xmax}, {ymin}≤y≤{ymax}. If multiple solutions exist, choose the one minimizing {w1}|x|+{w2}|y|; if still tied, choose the one with larger x. Report the chosen (x,y)."
+  },
+  {
+    "family_id": "f46",
+    "title": "Loan with variable APR, extra payments, and refinance trigger",
+    "template": "A loan has principal {P0} with APR {r1}% compounded monthly for the first {M1} months, then APR becomes {r2}%. Monthly payment is {pay}. Additionally, every {k} months you make an extra payment {extra} unless the remaining balance is below {Bth}, in which case you refinance to APR {r3}% with one-time fee {F} and new monthly payment {pay2}. Compute total interest paid and the payoff month."
+  },
+  {
+    "family_id": "f47",
+    "title": "Commission + quota bonus + clawback with returns",
+    "template": "A salesperson sells {n1} units in Phase 1 and {n2} units in Phase 2. Unit price is {p1} then {p2}. Commission is {c}% but becomes {c2}% for units sold beyond quota {Q} (counting units across both phases). Phase-2 returns are {ret} units; if returns exceed {Rth} units, a clawback of {cb}% of Phase-1 commission applies. Taxes are {t}% applied after the higher-rate quota bonus is accounted for, but before clawback. Compute final take-home pay (commission after tax and any clawback)."
+  },
+  {
+    "family_id": "f48",
+    "title": "Multi-stage recipe scaling with yield loss and rounding",
+    "template": "A recipe uses {a} grams ingredient X, {b} mL ingredient Y, and {c} grams ingredient Z to produce {N} servings. When scaling to {S} servings, ingredient X experiences {loss}% yield loss during cooking (so you must start with more), and ingredient Y must be measured in multiples of {step} mL (rounded up). If the pre-discount total cost exceeds {Cth}, a discount {d}% applies only to ingredient Z. Given unit costs cx={cx} per gram, cy={cy} per mL, cz={cz} per gram, compute total cost and final amounts of each ingredient used."
+  },
+  {
+    "family_id": "f49",
+    "title": "Shipping with volumetric weight, tiered rates, and surcharge interaction",
+    "template": "A package has actual weight {Wkg} kg and dimensions {Lcm}×{Wcm}×{Hcm} cm. Volumetric weight is (L·W·H)/{div} kg, and billable weight is max(actual, volumetric). Rate is {r1} per kg up to {K} kg and {r2} beyond, plus fuel surcharge {fs}%. Destination zone is {zone}. If destination is in {ZONE_SET}, add flat {F} unless billable weight exceeds {T}, in which case the flat fee is waived but the fuel surcharge increases by {Deltafs}%. Compute total charge."
+  },
+  {
+    "family_id": "f50",
+    "title": "Multi-phase production with scrap, rework capacity, and final quality constraint",
+    "template": "A factory produces {N} items per day for {D1} days with defect rate {p1}. Defectives can be reworked at capacity {R} items/day with success probability {s}; unreworked defectives are scrapped and failed reworks are scrapped. For the next {D2} days, production increases to {N2} but defect rate becomes {p2} unless the cumulative scrap so far exceeds {Sth}, in which case defect rate reduces to {p3} due to extra inspection cost {C} per day. Find the expected number of sellable items and the expected total inspection cost."
+  }
+]

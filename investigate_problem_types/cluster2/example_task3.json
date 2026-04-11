@@ -1,0 +1,37 @@
+{
+  "Let $x,y,z > 0$ satisfy $xyz = 1$. Prove or disprove the inequality $(x+1)(y+1)(z+1) \\ge 8$, and determine all cases of equality if it holds or describe all counterexample conditions if it does not.": {
+    "response1": [
+      "1) Recognize that $xyz = 1$ and apply the AM-GM inequality to $x+1$, $y+1$, and $z+1$.",
+      "2) Apply the AM-GM inequality to $x+1$, $y+1$, and $z+1$ to find a lower bound for their product.",
+      "3) Compare the lower bound with 8 to determine if the inequality holds.",
+      "4) Analyze the equality condition by setting $x = y = z = 1$ and verifying the equality case."
+    ],
+    "response2": [
+      "1) Recognize that $xyz = 1$ and apply the AM-GM inequality to $x, y, z$.",
+      "2) Use the AM-GM inequality to show that $x + 1 \\ge 2\\sqrt{x}$, $y + 1 \\ge 2\\sqrt{y}$, and $z + 1 \\ge 2\\sqrt{z}$.",
+      "3) Multiply the inequalities to get $(x+1)(y+1)(z+1) \\ge 8\\sqrt{x}\\sqrt{y}\\sqrt{z}$.",
+      "4) Use the condition $xyz = 1$ to substitute $\\sqrt{x}\\sqrt{y}\\sqrt{z} = \\sqrt{xyz} = \\sqrt{1} = 1$.",
+      "5) Conclude that $(x+1)(y+1)(z+1) \\ge 8$."
+    ],
+    "response3": [
+      "1) Recognize that $x, y, z > 0$ and $xyz = 1$.",
+      "2) Apply the AM-GM inequality to $x+1$, $y+1$, and $z+1$.",
+      "3) Use the condition $xyz = 1$ to relate the variables.",
+      "4) Compare the product $(x+1)(y+1)(z+1)$ to 8.",
+      "5) Determine if the inequality holds and identify equality cases."
+    ],
+    "response4": [
+      "1) Recognize that $xyz = 1$ and apply the AM-GM inequality to the terms $x+1$, $y+1$, and $z+1$.",
+      "2) Use the AM-GM inequality on $x+1$, $y+1$, and $z+1$ to establish a lower bound for their product.",
+      "3) Compare the lower bound with the given expression $(x+1)(y+1)(z+1)$ to determine the inequality's validity.",
+      "4) Analyze the equality condition by setting $x = y = z = 1$ and verifying if the inequality holds with equality."
+    ],
+    "response5": [
+      "1) Recognize that $x, y, z > 0$ and $xyz = 1$.",
+      "2) Use the AM-GM inequality on $x+1$, $y+1$, and $z+1$.",
+      "3) Apply the condition $xyz = 1$ to relate the variables.",
+      "4) Analyze the inequality $(x+1)(y+1)(z+1) \\ge 8$ under the given constraints.",
+      "5) Determine if the inequality holds and identify cases of equality."
+    ]
+  }
+}

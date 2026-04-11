@@ -1,0 +1,29 @@
+{
+  "In three-dimensional space, consider the tetrahedron with vertices $A=(0,0,0)$, $B=(6,0,0)$, $C=(0,8,0)$, and $D=(0,0,3)$. Let $M$ be the point on segment $BD$ such that $BM:MD = 2:1$. Find the distance from point $M$ to the plane through points $A$, $C$, and $D$.": {
+    "response1": [
+      "1) Identify the coordinates of point $M$ on segment $BD$ such that $BM:MD = 2:1$.",
+      "2) Determine the equation of the plane passing through points $A$, $C$, and $D$.",
+      "3) Calculate the distance from point $M$ to the plane."
+    ],
+    "response2": [
+      "1) Determine the coordinates of point $M$ on segment $BD$ such that $BM:MD = 2:1$.",
+      "2) Find the equation of the plane passing through points $A$, $C$, and $D$.",
+      "3) Calculate the distance from point $M$ to the plane."
+    ],
+    "response3": [
+      "1) Determine the coordinates of point $M$ on segment $BD$ such that $BM:MD = 2:1$.",
+      "2) Find the equation of the plane passing through points $A$, $C$, and $D$.",
+      "3) Compute the distance from point $M$ to the plane."
+    ],
+    "response4": [
+      "1) Determine the coordinates of point $M$ on segment $BD$ such that $BM:MD = 2:1$.",
+      "2) Find the equation of the plane passing through points $A$, $C$, and $D$.",
+      "3) Compute the distance from point $M$ to the plane."
+    ],
+    "response5": [
+      "1) Determine the coordinates of point $M$ on segment $BD$ such that $BM:MD = 2:1$.",
+      "2) Find the equation of the plane passing through points $A$, $C$, and $D$.",
+      "3) Calculate the distance from point $M$ to the plane."
+    ]
+  }
+}

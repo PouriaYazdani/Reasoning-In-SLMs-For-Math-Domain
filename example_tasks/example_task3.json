@@ -1,0 +1,39 @@
+{
+  "For an integer base $b>9$, let $N_b$ be the three-digit base-$b$ integer whose digits (in order) are $(b-1)$, $(b-2)$, and $3$; that is, $N_b=(b-1)\\cdot b^{2}+(b-2)\\cdot b+3$. Determine the sum of all bases $b$ such that $(b+1)$ divides $N_b$ and, additionally, the base-$b$ integer $1(b-3)(b-4)_b$ is divisible by $(b-2)$.": {
+    "response1": [
+      "1) Compute $N_b = (b-1)\\cdot b^{2}+(b-2)\\cdot b+3$ and record it as <E1>.",
+      "2) Determine the condition $(b+1)$ divides $N_b$ and record it as <E2>.",
+      "3) Compute the base-$b$ integer $1(b-3)(b-4)_b$ and record it as <E3>.",
+      "4) Determine the condition that <E3> is divisible by $(b-2)$ and record it as <E4>.",
+      "5) Find all bases $b > 9$ that satisfy both <E2> and <E4> and record them as <ANS>."
+    ],
+    "response2": [
+      "1) Compute $N_b = (b-1)\\cdot b^{2} + (b-2)\\cdot b + 3$ and record it as <E1>.",
+      "2) Determine the condition $(b+1) \\mid N_b$ and record it as <C1>.",
+      "3) Compute the base-$b$ integer $1(b-3)(b-4)_b$ and record it as <E2>.",
+      "4) Determine the condition $(b-2) \\mid <E2>$ and record it as <C2>.",
+      "5) Find all bases $b > 9$ such that <C1> and <C2> are satisfied and record them as <ANS>."
+    ],
+    "response3": [
+      "1) Express $N_b$ as given: $N_b = (b-1)\\cdot b^{2} + (b-2)\\cdot b + 3$.",
+      "2) Compute $N_b \\mod (b+1)$ and record it as <E1>.",
+      "3) Express the second number as $1(b-3)(b-4)_b$ and compute its value in base 10: $<C1> = 1\\cdot b^{2} + (b-3)\\cdot b + (b-4)$.",
+      "4) Compute $<C1> \\mod (b-2)$ and record it as <E2>.",
+      "5) Find all bases $b > 9$ such that <E1> = 0 and <E2> = 0."
+    ],
+    "response4": [
+      "1) Express $N_b$ as given: $N_b = (b-1)\\cdot b^{2}+(b-2)\\cdot b+3$.",
+      "2) Compute $N_b \\mod (b+1)$ and record it as <E1>.",
+      "3) Express the base-$b$ integer $1(b-3)(b-4)_b$ as $1\\cdot b^{2} + (b-3)\\cdot b + (b-4)$.",
+      "4) Compute the value of this integer modulo $(b-2)$ and record it as <E2>.",
+      "5) Find all bases $b > 9$ such that <E1> = 0 and <E2> = 0."
+    ],
+    "response5": [
+      "1) Express $N_b$ as given: $N_b = (b-1)\\cdot b^{2} + (b-2)\\cdot b + 3$.",
+      "2) Compute $(b+1) \\mid N_b$ and record it as <E1>.",
+      "3) Express the second base-$b$ integer as $1(b-3)(b-4)_b$ and compute its value as <E2>.",
+      "4) Compute $(b-2) \\mid <E2>$ and record it as <E3>.",
+      "5) Find all bases $b > 9$ such that <E1> and <E3> are both true."
+    ]
+  }
+}

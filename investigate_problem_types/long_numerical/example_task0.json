@@ -1,0 +1,41 @@
+{
+  "A deck has $8$ black and $7$ red cards. Cards are drawn without replacement until $3$ reds have appeared. What is the probability that exactly $6$ draws are needed?": {
+    "response1": [
+      "1) Determine the total number of cards: <T> = 8 + 7 = 15.",
+      "2) Calculate the number of ways to draw 6 cards with exactly 3 reds: <E1> = C(7,3) * C(8,3).",
+      "3) Calculate the number of ways to draw 6 cards with exactly 3 reds and 3 black cards: <E2> = C(7,3) * C(8,3).",
+      "4) Compute the probability that exactly 3 reds appear in 6 draws: <ANS> = <E1> / <T>^6."
+    ],
+    "response2": [
+      "1) Identify the total number of cards: <T> = 8 black + 7 red = 15 cards.",
+      "2) Determine the number of red cards: <R> = 7.",
+      "3) Compute the number of ways to draw 6 cards with exactly 3 reds: <C1> = C(7,3) * C(8,3).",
+      "4) Compute the number of ways to draw 6 cards with exactly 3 reds and 3 black cards: <C2> = C(7,3) * C(8,3).",
+      "5) Compute the probability that exactly 6 draws are needed: <ANS> = <C1> / <T>."
+    ],
+    "response3": [
+      "1) Identify the total number of cards: <T> = 8 black + 7 red = 15 cards.",
+      "2) Determine the number of red cards: <R> = 7.",
+      "3) Determine the number of black cards: <B> = 8.",
+      "4) Calculate the probability that the first 5 draws contain exactly 2 red cards and 3 black cards: <P1> = C(7,2) * C(8,3) / C(15,5).",
+      "5) Calculate the probability that the first 5 draws contain exactly 1 red card and 4 black cards: <P2> = C(7,1) * C(8,4) / C(15,5).",
+      "6) Calculate the probability that the first 5 draws contain exactly 0 red cards and 5 black cards: <P3> = C(7,0) * C(8,5) / C(15,5).",
+      "7) Calculate the probability that the first 5 draws contain exactly 2 red cards and 3 black cards and the 6th draw is red: <P4> = <P1> * C(7,1) / C(15,6).",
+      "8) Calculate the probability that the first 5 draws contain exactly 1 red card and 4 black cards and the 6th draw is red: <P5> = <P2> * C(7,1) / C(15,6).",
+      "9) Calculate the probability that the first 5 draws contain exactly 0 red cards and 5 black cards and the 6th draw is red: <P6> = <P3> * C(7,1) / C(15,6).",
+      "10) Sum the probabilities <P4>, <P5>, and <P6> to find the total probability that exactly 6 draws are needed: <ANS> = <P4> + <P5> + <P6>."
+    ],
+    "response4": [
+      "1) Determine the total number of cards in the deck: <T> = 8 + 7 = 15.",
+      "2) Calculate the number of ways to draw 6 cards with exactly 3 red cards: <E1> = C(7,3) * C(8,3).",
+      "3) Calculate the number of ways to draw 6 cards with exactly 3 red cards and the 3rd red card on the 6th draw: <E2> = C(7,2) * C(8,1) * C(7,1).",
+      "4) Compute the probability that exactly 6 draws are needed: <ANS> = <E2> / <T choose 6>."
+    ],
+    "response5": [
+      "1) Determine the total number of cards in the deck: <T> = 8 + 7 = 15.",
+      "2) Calculate the number of ways to choose 6 cards with exactly 3 red cards: <E1> = C(7,3) * C(8,3).",
+      "3) Calculate the number of ways to choose 6 cards with exactly 3 red cards and 3 black cards: <E2> = C(7,3) * C(8,3).",
+      "4) Compute the probability that exactly 3 red cards appear in the first 6 draws: <ANS> = <E1> / <T>^6."
+    ]
+  }
+}

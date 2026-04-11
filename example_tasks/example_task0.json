@@ -1,0 +1,33 @@
+{
+  "Find the sum of all integer bases $b>9$ for which $17_{b}$ is a divisor of $97_{b}$.": {
+    "response1": [
+      "1) Identify the bases $b > 9$ for which $17_{b}$ divides $97_{b}$.",
+      "2) Convert $17_{b}$ and $97_{b}$ to decimal form: $17_{b} = <E1>$ and $97_{b} = <E2>$.",
+      "3) Compute the condition $<E2> \\mod <E1> = 0$ and record it as <ANS>."
+    ],
+    "response2": [
+      "1) Identify the base conditions for the given numbers.",
+      "2) Express the numbers in decimal form.",
+      "3) Set up the divisibility condition.",
+      "4) Solve for the bases that satisfy the condition.",
+      "5) Sum the valid bases."
+    ],
+    "response3": [
+      "1) Identify the bases $b > 9$ for which $17_{b}$ divides $97_{b}$.",
+      "2) Convert $17_{b}$ and $97_{b}$ to decimal form: $17_{b} = <E1>$ and $97_{b} = <E2>$.",
+      "3) Compute the condition $<E2> \\mod <E1> = 0$ and record it as <ANS>."
+    ],
+    "response4": [
+      "1) Identify the base representation of the numbers $17_{b}$ and $97_{b}$.",
+      "2) Convert $17_{b}$ and $97_{b}$ to decimal form using base $b$.",
+      "3) Set up the divisibility condition $17_{b} \\mid 97_{b}$ in decimal form.",
+      "4) Solve the inequality $17_{b} \\mid 97_{b}$ for integer base $b > 9$."
+    ],
+    "response5": [
+      "1) Identify the base representation of the numbers $17_{b}$ and $97_{b}$.",
+      "2) Convert $17_{b}$ and $97_{b}$ to decimal form.",
+      "3) Find the base $b > 9$ for which $17_{b}$ divides $97_{b}$.",
+      "4) Sum all such bases."
+    ]
+  }
+}

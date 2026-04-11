@@ -1,0 +1,32 @@
+{
+  "A bag contains $10$ slips labeled with integers. You are told that at least $6$ slips have distinct labels and that the sum of all $10$ labels is $17$. You draw $3$ slips uniformly at random without replacement. You win if the maximum of the three labels is strictly greater than the sum of the other two labels. What is the maximum possible value of your winning probability over all labelings consistent with the information?": {
+    "response1": [
+      "1) Identify the constraints: 10 slips with integers, at least 6 distinct labels, sum of all labels is 17.",
+      "2) Determine possible labelings that satisfy the constraints.",
+      "3) Compute the probability of winning for each valid labeling.",
+      "4) Find the maximum winning probability among all valid labelings."
+    ],
+    "response2": [
+      "1) Identify the constraints on the labels: at least 6 distinct labels, sum of all 10 labels is 17.",
+      "2) Determine the possible labelings that satisfy the constraints.",
+      "3) Compute the probability of winning for each valid labeling.",
+      "4) Find the maximum winning probability across all valid labelings."
+    ],
+    "response3": [
+      "1) Identify the constraints on the labels: at least 6 distinct labels and sum of all 10 labels is 17.",
+      "2) Consider possible labelings that satisfy the constraints and compute the maximum winning probability.",
+      "3) Determine the maximum possible winning probability over all valid labelings."
+    ],
+    "response4": [
+      "1) Identify the possible labelings of the 10 slips that satisfy the given constraints: at least 6 distinct labels and sum of all labels is 17.",
+      "2) For each valid labeling, compute the probability that drawing 3 slips results in a win (i.e., the maximum label is strictly greater than the sum of the other two).",
+      "3) Determine the maximum possible winning probability across all valid labelings."
+    ],
+    "response5": [
+      "1) Identify the constraints on the labels: at least 6 distinct labels, sum of all 10 labels is 17.",
+      "2) Determine the possible labelings that satisfy the constraints.",
+      "3) Compute the probability of winning for each valid labeling.",
+      "4) Find the maximum winning probability among all valid labelings."
+    ]
+  }
+}

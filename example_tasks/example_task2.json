@@ -1,0 +1,41 @@
+{
+  "Find the eigenvalues and unit eigenvectors $v_{1}, v_{2}$ of $A^{\\mathsf T}A$. Then compute $u_{1}=\\dfrac{A\\,v_{1}}{\\sigma_{1}}$, where $A=\begin{bmatrix}1&2\\3&6\\end{bmatrix}$, $A^{\\mathsf T}A=\begin{bmatrix}10&20\\20&40\\end{bmatrix}$, and $A A^{\\mathsf T}=\begin{bmatrix}5&15\\15&45\\end{bmatrix}$. Verify that $u_{1}$ is a unit eigenvector of $A A^{\\mathsf T}$. Complete the matrices $U$, $\\Sigma$, and $V$ in the singular value decomposition $\\,[u_{1}\\ \\ u_{2}]\\,\begin{bmatrix}\\sigma_{1}&0\\0&0\\end{bmatrix}\\,[v_{1}\\ \\ v_{2}]^{\\mathsf T}$ of $A$.": {
+    "response1": [
+      "1) Identify the given matrices and their properties: $A = \\begin{bmatrix}1&2\\\\3&6\\end{bmatrix}$, $A^{\\mathsf T}A = \\begin{bmatrix}10&20\\\\20&40\\end{bmatrix}$, $A A^{\\mathsf T} = \\begin{bmatrix}5&15\\\\15&45\\end{bmatrix}$.",
+      "2) Compute the singular values $\\sigma_1$ and $\\sigma_2$ of $A$ by taking the square roots of the eigenvalues of $A^{\\mathsf T}A$.",
+      "3) Compute the unit eigenvectors $v_1$ and $v_2$ of $A^{\\mathsf T}A$.",
+      "4) Compute $u_1 = \\dfrac{A\\,v_1}{\\sigma_1}$ and verify that $u_1$ is a unit eigenvector of $A A^{\\mathsf T}$.",
+      "5) Construct the matrices $U$, $\\Sigma$, and $V$ for the singular value decomposition of $A$."
+    ],
+    "response2": [
+      "1) Identify the given matrices $A$, $A^{\\mathsf T}A$, and $A A^{\\mathsf T}$.",
+      "2) Compute the eigenvalues of $A^{\\mathsf T}A$ by solving the characteristic equation $\\det(A^{\\mathsf T}A - \\lambda I) = 0$.",
+      "3) Find the unit eigenvectors $v_{1}$ and $v_{2}$ corresponding to the eigenvalues of $A^{\\mathsf T}A$.",
+      "4) Compute $u_{1} = \\dfrac{A\\,v_{1}}{\\sigma_{1}}$.",
+      "5) Verify that $u_{1}$ is a unit eigenvector of $A A^{\\mathsf T}$ by checking that $A A^{\\mathsf T} u_{1} = \\sigma_{1} u_{1}$.",
+      "6) Construct the matrices $U$, $\\Sigma$, and $V$ for the singular value decomposition of $A$."
+    ],
+    "response3": [
+      "1) Identify the given matrices and their properties: $A = \\begin{bmatrix}1&2\\\\3&6\\end{bmatrix}$, $A^{\\mathsf T}A = \\begin{bmatrix}10&20\\\\20&40\\end{bmatrix}$, $A A^{\\mathsf T} = \\begin{bmatrix}5&15\\\\15&45\\end{bmatrix}$.",
+      "2) Compute the singular values $\\sigma_1$ and $\\sigma_2$ of $A$ by taking the square roots of the eigenvalues of $A^{\\mathsf T}A$.",
+      "3) Find the unit eigenvectors $v_1$ and $v_2$ of $A^{\\mathsf T}A$.",
+      "4) Compute $u_1 = \\dfrac{A\\,v_1}{\\sigma_1}$ and verify that $u_1$ is a unit eigenvector of $A A^{\\mathsf T}$.",
+      "5) Construct the matrices $U$, $\\Sigma$, and $V$ for the singular value decomposition of $A$."
+    ],
+    "response4": [
+      "1) Identify the given matrices and their properties.",
+      "2) Compute the eigenvalues of $A^{\\mathsf T}A$.",
+      "3) Find the unit eigenvectors $v_{1}$ and $v_{2}$ of $A^{\\mathsf T}A$.",
+      "4) Compute the unit eigenvectors $u_{1}$ of $A A^{\\mathsf T}$.",
+      "5) Verify that $u_{1}$ is a unit eigenvector of $A A^{\\mathsf T}$.",
+      "6) Construct the matrices $U$, $\\Sigma$, and $V$ for the singular value decomposition."
+    ],
+    "response5": [
+      "1) Identify the given matrices and their properties: $A = \\begin{bmatrix}1&2\\\\3&6\\end{bmatrix}$, $A^{\\mathsf T}A = \\begin{bmatrix}10&20\\\\20&40\\end{bmatrix}$, $A A^{\\mathsf T} = \\begin{bmatrix}5&15\\\\15&45\\end{bmatrix}$.",
+      "2) Compute the singular values $\\sigma_1$ and $\\sigma_2$ of $A$ by taking the square roots of the eigenvalues of $A^{\\mathsf T}A$.",
+      "3) Find the unit eigenvectors $v_1$ and $v_2$ of $A^{\\mathsf T}A$.",
+      "4) Compute $u_1 = \\frac{A v_1}{\\sigma_1}$ and verify that $u_1$ is a unit eigenvector of $A A^{\\mathsf T}$.",
+      "5) Construct the matrices $U$, $\\Sigma$, and $V$ for the singular value decomposition of $A$."
+    ]
+  }
+}

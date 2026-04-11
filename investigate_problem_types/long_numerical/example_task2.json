@@ -1,0 +1,39 @@
+{
+  "A factory produces bolts on two lines. Line A makes $420$ bolts per hour with defect probability $0.03$ per bolt; Line B makes $280$ bolts per hour with defect probability $0.05$ per bolt. During a $30$-minute window, a quality engineer randomly samples $12$ bolts uniformly from all bolts produced in that window. If the sample contains at least $3$ defective bolts, the engineer shuts down the line that contributed the larger number of defective bolts in the sample (break ties by shutting down Line B). What is the probability that Line B is shut down?": {
+    "response1": [
+      "1) Compute the number of bolts produced on Line A in 30 minutes: <E1> = 420 * 0.5",
+      "2) Compute the number of bolts produced on Line B in 30 minutes: <E2> = 280 * 0.5",
+      "3) Compute the probability of at least 3 defective bolts in a sample of 12 from Line A: <R1>",
+      "4) Compute the probability of at least 3 defective bolts in a sample of 12 from Line B: <C1>",
+      "5) Compute the probability that Line B is shut down: <ANS> = <C1> - <R1>"
+    ],
+    "response2": [
+      "1) Compute the expected number of defective bolts on Line A in a 30-minute window and record it as <E1>.",
+      "2) Compute the expected number of defective bolts on Line B in a 30-minute window and record it as <E2>.",
+      "3) Compute the probability that a randomly sampled 12 bolts from the combined production contains at least 3 defective bolts and record it as <P>.",
+      "4) Compute the probability that Line B is shut down based on the sample containing at least 3 defective bolts and record it as <R1>."
+    ],
+    "response3": [
+      "1) Compute the total number of bolts produced in 30 minutes by Line A: <E1> = 420 * 0.5.",
+      "2) Compute the total number of bolts produced in 30 minutes by Line B: <E2> = 280 * 0.5.",
+      "3) Compute the expected number of defective bolts produced by Line A: <E1> * 0.03.",
+      "4) Compute the expected number of defective bolts produced by Line B: <E2> * 0.05.",
+      "5) Compute the probability that a randomly sampled 12 bolts from Line A contains at least 3 defective ones: <P1>.",
+      "6) Compute the probability that a randomly sampled 12 bolts from Line B contains at least 3 defective ones: <P2>.",
+      "7) Compute the probability that Line B is shut down: <P2> - <P1>."
+    ],
+    "response4": [
+      "1) Compute the number of bolts produced on Line A in 30 minutes: <E1> = 420 * 0.5",
+      "2) Compute the number of bolts produced on Line B in 30 minutes: <E2> = 280 * 0.5",
+      "3) Compute the probability of at least 3 defective bolts in a sample of 12 from Line A: <R1>",
+      "4) Compute the probability of at least 3 defective bolts in a sample of 12 from Line B: <C1>",
+      "5) Compute the probability that Line B is shut down: <ANS> = <C1> - <R1>"
+    ],
+    "response5": [
+      "1) Compute the expected number of defective bolts on Line A in a 30-minute window and record it as <E1>.",
+      "2) Compute the expected number of defective bolts on Line B in a 30-minute window and record it as <E2>.",
+      "3) Compute the probability that a sample of 12 bolts contains at least 3 defective bolts and record it as <R1>.",
+      "4) Compute the probability that Line B is shut down based on the sample and record it as <ANS>."
+    ]
+  }
+}

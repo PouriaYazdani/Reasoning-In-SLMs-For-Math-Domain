@@ -1,0 +1,34 @@
+{
+  "Three integers $(x,y,z)$ are written on a board. In one move, you may replace exactly one of the numbers by the sum of the other two, so $(x,y,z)$ may become $(y+z,y,z)$, $(x,x+z,z)$, or $(x,y,x+y)$. Starting from $(1,1,2)$, is it possible to reach a state in which all three numbers are multiples of $7$? Justify your answer.": {
+    "response1": [
+      "1) Identify the initial state: <E1> = (1, 1, 2).",
+      "2) Determine the possible moves: Replace one number with the sum of the other two.",
+      "3) Check if any move results in all numbers being multiples of 7.",
+      "4) If no move leads to all numbers being multiples of 7, conclude it is impossible."
+    ],
+    "response2": [
+      "1) Identify the initial state: <E1> = (1, 1, 2).",
+      "2) Determine the possible operations: replace one number with the sum of the other two.",
+      "3) Analyze the effect of each operation on the numbers.",
+      "4) Check if any operation can lead to all numbers being multiples of 7."
+    ],
+    "response3": [
+      "1) Identify the current state: (1, 1, 2).",
+      "2) Determine the possible moves from the current state: replace one number with the sum of the other two.",
+      "3) Check if any move results in all three numbers being multiples of 7.",
+      "4) If no move leads to all three numbers being multiples of 7, conclude that it is not possible."
+    ],
+    "response4": [
+      "1) Identify the current state: (1, 1, 2).",
+      "2) Determine the possible moves from the current state: (1+1, 1, 2) = (2, 1, 2), (1, 1+2, 2) = (1, 3, 2), (1, 1, 1+2) = (1, 1, 3).",
+      "3) Check if any of the resulting states have all numbers divisible by 7.",
+      "4) If not, repeat the process with the new state."
+    ],
+    "response5": [
+      "1) Identify the current state: (1, 1, 2).",
+      "2) Determine the possible moves from the current state: replace one number with the sum of the other two.",
+      "3) Check if any of the resulting states have all numbers divisible by 7.",
+      "4) If no such state is reachable, conclude that it is not possible."
+    ]
+  }
+}

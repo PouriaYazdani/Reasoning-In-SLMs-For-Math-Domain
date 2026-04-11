@@ -1,0 +1,42 @@
+{
+  "A right circular cylindrical tank has radius $3.5$ m and height $12$ m. It is initially filled with water to a height of $9$ m. Water is pumped out at a constant rate of $0.18$ m$^3$/min for $40$ minutes. Immediately after, a different pump adds water at a constant rate of $0.12$ m$^3$/min while a leak simultaneously drains water at a rate proportional to the current water height: $0.015,h$ m$^3$/min when the height is $h$ meters. After $60$ minutes of this second phase, what is the water height in the tank (in meters)?": {
+    "response1": [
+      "1) Identify the volume of water in the tank initially: Compute <V1> as the volume of a cylinder with radius 3.5 m and height 9 m.",
+      "2) Calculate the volume of water pumped out during the first 40 minutes: Compute <V2> as 0.18 * 40.",
+      "3) Determine the volume of water remaining after the first phase: Compute <V3> as <V1> - <V2>.",
+      "4) Set up the differential equation for the rate of change of water volume during the second phase: Compute <dV/dt> as 0.12 - 0.015*h.",
+      "5) Solve the differential equation to find the height of water in the tank after 60 minutes: Compute <h> as the solution to the differential equation."
+    ],
+    "response2": [
+      "1) Define the volume of water in the tank at any time during the first phase.",
+      "2) Compute the total volume of water pumped out during the first 40 minutes.",
+      "3) Determine the volume of water remaining in the tank after the first phase.",
+      "4) Model the second phase with the given rates and set up the differential equation for the water height.",
+      "5) Solve the differential equation to find the height of water after 60 minutes of the second phase."
+    ],
+    "response3": [
+      "1) Identify the volume of water in the tank initially: Compute the volume of a cylinder with radius 3.5 m and height 9 m and record it as <V1>.",
+      "2) Calculate the total volume pumped out during the first phase: Compute the total volume pumped out in 40 minutes at 0.18 m³/min and record it as <V2>.",
+      "3) Determine the volume of water remaining after the first phase: Compute the remaining volume in the tank as <V3> = <V1> - <V2>.",
+      "4) Model the second phase with the leak: Set up the differential equation for the rate of change of water height during the second phase and record it as <DE>.",
+      "5) Solve the differential equation <DE> to find the height of water in the tank after 60 minutes of the second phase and record it as <ANS>."
+    ],
+    "response4": [
+      "1) Identify the volume of water in the tank initially: <E1> = π * (3.5)^2 * 9.",
+      "2) Compute the volume of water pumped out during the first phase: <E2> = 0.18 * 40.",
+      "3) Calculate the remaining water volume after the first phase: <R1> = <E1> - <E2>.",
+      "4) Determine the rate of water addition during the second phase: <C1> = 0.12.",
+      "5) Determine the rate of water drainage during the second phase: <R2> = 0.015 * <h>.",
+      "6) Set up the differential equation for the water height during the second phase: <d<ANS>/dt> = <C1> - <R2>.",
+      "7) Solve the differential equation to find the water height <ANS> after 60 minutes."
+    ],
+    "response5": [
+      "1) Identify the initial volume of water in the tank: <V1> = π * (3.5)^2 * 9.",
+      "2) Calculate the volume of water pumped out during the first phase: <V2> = 0.18 * 40.",
+      "3) Compute the remaining volume of water after the first phase: <V3> = <V1> - <V2>.",
+      "4) Determine the differential equation governing the rate of change of water height during the second phase: <dV/dt> = 0.12 - 0.015*h.",
+      "5) Solve the differential equation to find the water height as a function of time during the second phase: <h(t)>.",
+      "6) Evaluate <h(60)> to find the water height after 60 minutes of the second phase."
+    ]
+  }
+}

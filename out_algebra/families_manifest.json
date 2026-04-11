@@ -1,0 +1,52 @@
+[
+  {
+    "family_id": "f13",
+    "title": "Two-mixture with loss, refill, and purity constraint",
+    "template": "Tank A contains {VA} liters of solution at {cA}% solute; Tank B contains {VB} liters at {cB}%. You transfer x liters from A to B and mix thoroughly, then spill {s} liters from B. Next you add {w} liters of pure water to B and {u} liters of {cU}% solution to B. After all operations, B’s concentration is exactly {cT}%. Find x."
+  },
+  {
+    "family_id": "f14",
+    "title": "Piecewise tariff + tiered discount with rounding",
+    "template": "A service charges {a} per unit for the first {m} units, {b} per unit for the next {n} units, and {c} per unit beyond that. If total usage exceeds {U}, a discount of {d}% applies only to the portion beyond {U}; additionally, if the pre-discount bill exceeds {P}, a flat rebate {R} is subtracted. The bill is rounded to the nearest {round_unit}. Given final bill {Bill}, find the total usage."
+  },
+  {
+    "family_id": "f15",
+    "title": "System of equations with conditional override rule",
+    "template": "Two numbers x and y satisfy: (i) x + y = {S}, (ii) x − y = {D} unless x exceeds {T}, in which case condition (ii) is replaced by x·y = {P}. You are told the override did occur. Find x and y."
+  },
+  {
+    "family_id": "f16",
+    "title": "Recurrence with regime switch based on threshold",
+    "template": "A sequence starts at a0 = {a0}. For n ≥ 0, define a_{{n+1}} = {r1}·a_n + {c1} if a_n ≤ {T}, and a_{{n+1}} = {r2}·a_n + {c2} otherwise. Let N be the smallest index where a_N first exceeds {H}. Compute N and a_N."
+  },
+  {
+    "family_id": "f17",
+    "title": "Work-rate with efficiency drop + bonus completion clause",
+    "template": "Worker A alone completes a job in {TA} hours and Worker B alone in {TB} hours. They work together for {t1} hours. If by then less than {p}% of the job is done, they add Worker C who works at {eC} times A’s rate; otherwise A’s efficiency drops by {d}% for the remaining time due to fatigue. Additionally, if the job finishes before {Tbonus} hours total, they receive a bonus {B} split proportional to individual hours worked. Find the total completion time and A’s bonus share."
+  },
+  {
+    "family_id": "f18",
+    "title": "Inventory with shrinkage, restock, and target margin",
+    "template": "A store starts with {N0} units costing {c0} each. Each day for {D1} days it sells {s1} units at price {p1}; unsold inventory shrinks by {sh}% daily. Then it restocks {N1} units at cost {c1} and changes selling price to p2 for {D2} days, selling {s2} units per day (cannot exceed inventory). Given the total profit margin over the whole period is {M}% relative to total cost, find p2."
+  },
+  {
+    "family_id": "f19",
+    "title": "Weighted average with constraint-dependent weights",
+    "template": "A final score is computed from Exam E, Project P, and Quiz average Q with weights wE={wE}, wP={wP}, wQ={wQ} (summing to 1). However, if E is below {T}, the exam weight increases by {Delta} and the project weight decreases by {Delta} (quiz unchanged). A student has P={pval}, Q={qval}, and final score {F}. Given the adjustment did occur, find E."
+  },
+  {
+    "family_id": "f20",
+    "title": "Multi-currency exchange with fees and arbitrage check",
+    "template": "You start with {X} in currency A. You exchange to currency B at rate {rAB} with fee {f1}%, then to currency C at rate rBC with a flat fee {F2} (in currency B), then back to A at rate {rCA} with fee {f3}%. If the final amount in A is {Y}, determine the missing rate rBC and state whether the cycle is profitable if rBC increases by {eps}."
+  },
+  {
+    "family_id": "f21",
+    "title": "Piecewise linear cost minimization with constraint coupling",
+    "template": "You must produce {Q} units using Machine 1 and Machine 2. Machine 1 cost is {a1} per unit up to {k1} units then {b1} per unit beyond; Machine 2 cost is {a2} per unit up to {k2} units then {b2} per unit beyond. Additionally, Machine 1 output cannot exceed {cap1}, and at least {min2} units must come from Machine 2. Find the minimum total cost and the optimal split."
+  },
+  {
+    "family_id": "f22",
+    "title": "Polynomial parameter fit with extra constraint and integer solution",
+    "template": "A quadratic f(t)=a t^2 + b t + c satisfies f({t1})={y1}, f({t2})={y2}, and f({t3})={y3}. In addition, the vertex occurs at t={tv} (i.e., −b/(2a)={tv}) and you are told a is an integer. Find (a,b,c)."
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "A medical test returns either Positive or Negative. The disease prevalence is $0.02$. The test has sensitivity $0.93$ and specificity $0.96$. A clinic repeats the test independently a second time only if the first result is Positive. The clinic declares a person \"Infected\" if and only if at least one of the performed tests is Positive. What is the probability that a randomly selected person declared Infected is actually infected?": {
+    "response1": [
+      "1) Define the variables: prevalence <E1>, sensitivity <E2>, specificity <E3>, and test repetition <R1>.",
+      "2) Compute the probability of a person being infected <C1> using the prevalence <E1>.",
+      "3) Compute the probability of a person testing positive on the first test <C2> using sensitivity <E2>.",
+      "4) Compute the probability of a person testing negative on the first test <C3> using specificity <E3>.",
+      "5) Compute the probability of a person testing positive on the second test <C4> given the first test was positive <C5>.",
+      "6) Compute the probability of a person being declared Infected <C6> as at least one test is positive.",
+      "7) Compute the probability that a person is actually infected <C7> given they were declared Infected <C8>."
+    ],
+    "response2": [
+      "1) Define the prevalence of the disease as <E1> = 0.02.",
+      "2) Define the sensitivity of the test as <E2> = 0.93.",
+      "3) Define the specificity of the test as <E3> = 0.96.",
+      "4) Compute the probability of a true positive as <R1> = <E1> * <E2>.",
+      "5) Compute the probability of a false positive as <R2> = (1 - <E1>) * (1 - <E3>).",
+      "6) Compute the probability of a true negative as <R3> = <E1> * (1 - <E2>).",
+      "7) Compute the probability of a false negative as <R4> = (1 - <E1>) * <E3>.",
+      "8) Compute the probability of being declared Infected as <ANS> = <R1> + <R2>.",
+      "9) Compute the probability of being actually infected as <C1> = <R1> / <ANS>."
+    ],
+    "response3": [
+      "1) Define the prevalence of the disease as <E1> = 0.02.",
+      "2) Define the sensitivity of the test as <E2> = 0.93.",
+      "3) Define the specificity of the test as <E3> = 0.96.",
+      "4) Compute the probability of a person being infected and testing positive: <R1> = <E1> * <E2>.",
+      "5) Compute the probability of a person not being infected and testing negative: <R2> = (1 - <E1>) * (1 - <E3>).",
+      "6) Compute the probability of a person being infected and testing negative: <R3> = <E1> * (1 - <E3>).",
+      "7) Compute the probability of a person not being infected and testing positive: <R4> = (1 - <E1>) * <E2>.",
+      "8) Compute the probability of a person being declared Infected: <ANS> = <R1> + <R4>.",
+      "9) Compute the probability that a person is actually infected given they are declared Infected: <C1> = <R1> / <ANS>."
+    ],
+    "response4": [
+      "1) Define the variables: prevalence <E1>, sensitivity <E2>, specificity <E3>, and test repetition <R1>.",
+      "2) Compute the probability of a person being infected <C1> using the prevalence <E1>.",
+      "3) Compute the probability of a person testing positive on the first test <C2> using sensitivity <E2>.",
+      "4) Compute the probability of a person testing negative on the first test <C3> using specificity <E3>.",
+      "5) Compute the probability of a person testing positive on the second test <C4> given the first test was positive <C5>.",
+      "6) Compute the probability of a person being infected and testing positive on the first test <C6> using <C2> and <C1>.",
+      "7) Compute the probability of a person being infected and testing positive on the second test <C7> using <C5> and <C1>.",
+      "8) Compute the probability of a person being declared Infected <C8> using <C6> and <C7>.",
+      "9) Compute the probability that a person is actually infected given they are declared Infected <ANS> using <C8> and <C1>."
+    ],
+    "response5": [
+      "1) Define the probability of a person being infected as <P>.",
+      "2) Define the probability of a positive test result as <E1>.",
+      "3) Define the probability of a negative test result as <E2>.",
+      "4) Compute the probability of a positive test result given infection as <R1>.",
+      "5) Compute the probability of a negative test result given infection as <C1>.",
+      "6) Compute the probability of a positive test result given no infection as <R2>.",
+      "7) Compute the probability of a negative test result given no infection as <C2>.",
+      "8) Compute the probability of being declared Infected as <ANS>.",
+      "9) Compute the probability of being Infected and actually infected as <E1>.",
+      "10) Compute the probability of being Infected and not infected as <E2>.",
+      "11) Compute the probability of being declared Infected given actually infected as <ANS>."
+    ]
+  }
+}

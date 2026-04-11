@@ -1,0 +1,27 @@
+[
+  {
+    "family_id": "f36",
+    "title": "Coordinate geometry with intersection constraint + conditional replacement",
+    "template": "Two lines ℓ1: y={m1}x{b1_term} and ℓ2: y={m2}x{b2_term} intersect at P. A circle centered at P with radius {r} intersects the x-axis at points A and B. If |AB|<{T}, the radius is replaced by {r2}; otherwise the circle is translated by vector ({dx},{dy}). Compute the final area of the circle segment above the x-axis."
+  },
+  {
+    "family_id": "f37",
+    "title": "Triangle with mixed constraints (side ratio + area + altitude threshold)",
+    "template": "A triangle has sides a,b,c with a:b = {p}:{q} and perimeter {P}. Its area is {A}. If the altitude to side a is less than {h0}, the triangle is scaled uniformly by factor {s}. Find the final side lengths and the final inradius."
+  },
+  {
+    "family_id": "f38",
+    "title": "Circle chord geometry with two-stage constraint update",
+    "template": "In a circle of radius {R}, two chords have lengths {c1} and {c2} and intersect at point P inside the circle (assume P is the midpoint of chord 1). The distance from the center to chord 1 is {d1}. If P lies within {eps} of the center, chord 2 is rotated to make its distance from center {d2}; otherwise chord 1 is shortened by {Delta}. Compute the final intersection power PA·PB for chord 1."
+  },
+  {
+    "family_id": "f39",
+    "title": "3D volume with piecewise filling and sloshing loss",
+    "template": "A cylindrical tank of radius {r} is initially empty and is filled with water. For the first {T1} minutes, inflow is {a1} L/min; for the next {T2} minutes it is {a2} L/min. Outflow is {b} L/min throughout. If the water height exceeds {H}, a sloshing loss of {s}% of the excess volume above height H occurs instantly at each minute mark. Find the final water height and the total lost volume."
+  },
+  {
+    "family_id": "f40",
+    "title": "Coordinate polygon area with constraint-dependent vertex shift",
+    "template": "A quadrilateral has vertices A({x1},{y1}), B({x2},{y2}), C({x3},{y3}), D({x4},{y4}). If its area (shoelace) exceeds {A0}, shift vertex C by vector ({u},{v}); otherwise reflect vertex D across line y={k}. Compute the final perimeter and area."
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Let $(a_n)$ be defined by $a_1 = 1$, $a_2 = 3$, and $a_{n+2} = 4a_{n+1} - 4a_n$ for all integers $n \\ge 1$. Find all integers $n$ with $1 \\le n \\le 50$ for which $a_n$ is a perfect square.": {
+    "response1": [
+      "1) Identify the recurrence relation for the sequence $a_n$.",
+      "2) Find the closed-form expression for $a_n$ using the recurrence relation.",
+      "3) Determine the conditions under which $a_n$ is a perfect square.",
+      "4) Find all integers $n$ in the range $1 \\le n \\le 50$ for which $a_n$ is a perfect square."
+    ],
+    "response2": [
+      "1) Identify the recurrence relation for the sequence $(a_n)$.",
+      "2) Find the closed-form expression for $a_n$ using the recurrence relation.",
+      "3) Determine when $a_n$ is a perfect square for $1 \\le n \\le 50$."
+    ],
+    "response3": [
+      "1) Identify the recurrence relation and its characteristic equation.",
+      "2) Solve the characteristic equation to find the general form of $a_n$.",
+      "3) Determine the conditions under which $a_n$ is a perfect square.",
+      "4) Find all integers $n$ in the range $1 \\le n \\le 50$ for which $a_n$ is a perfect square."
+    ],
+    "response4": [
+      "1) Identify the recurrence relation and its characteristic equation.",
+      "2) Solve the characteristic equation to find the general form of $a_n$.",
+      "3) Determine the conditions under which $a_n$ is a perfect square.",
+      "4) Find all integers $n$ in the range $1 \\le n \\le 50$ for which $a_n$ is a perfect square."
+    ],
+    "response5": [
+      "1) Identify the recurrence relation and its characteristic equation.",
+      "2) Solve the characteristic equation to find the general form of $a_n$.",
+      "3) Determine the conditions under which $a_n$ is a perfect square.",
+      "4) Find all integers $n$ in the range $1 \\le n \\le 50$ for which $a_n$ is a perfect square."
+    ]
+  }
+}
