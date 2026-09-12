@@ -1,5 +1,5 @@
  Bachelor's thesis project on
-improving multi-step reasoning in a small language model (Qwen3-1.7B) under real
+improving multi-step reasoning in a small language model (Qwen3-1.7B) under
 personal-hardware constraints (single RTX 3060, 6GB VRAM), using a two-stage
 **plan-and-solve** architecture and targeted, error-driven fine-tuning.
  
@@ -22,7 +22,7 @@ Full methodology, error taxonomy, and results are in the accompanying thesis rep
 5. Used a high-reasoning-effort teacher model (GPT-5.2, via batched API calls) to
    generate structured "gold" plans for every instance.
 6. Fine-tuned the planning behavior of Qwen3-1.7B on this data using QLoRA
-   (4-bit NF4 quantization, adapters on the attention projections), and evaluated the
+  , and evaluated the
    before/after planning and solving quality.
 ## Repository structure
  
