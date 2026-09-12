@@ -4,7 +4,7 @@ personal-hardware constraints (single RTX 3060, 6GB VRAM), using a two-stage
 **plan-and-solve** architecture and targeted, error-driven fine-tuning.
  
 Full methodology, error taxonomy, and results are in the accompanying thesis report,
-[*"Reasoning in Small Language Models for Mathematical Problem Solving Domain."*](https://github.com/user-attachments/files/32140266/PouriaYazdani_400243082_BachelorProjectFinalReport.pdf)
+[*"Reasoning in Small Language Models for Mathematical Problem Solving Domain."*](Report.pdf)
 
 
 ## Approach
